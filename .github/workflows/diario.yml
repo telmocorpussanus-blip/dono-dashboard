@@ -1,8 +1,11 @@
 name: Atualizar Dono Report
 on:
   schedule:
-    - cron: '0 7 * * *' # 8h Lisboa = 7h UTC
-  workflow_dispatch: # permite correr manualmente
+    - cron: '0 7 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update:
