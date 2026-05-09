@@ -1,0 +1,22 @@
+name: Atualizar Dono Report
+on:
+  schedule:
+    - cron: '0 7 * * *' # 8h Lisboa = 7h UTC
+  workflow_dispatch: # permite correr manualmente
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install feedparser requests
+      - run: python script.py
+      - run: |
+          git config user.name "Dono Bot"
+          git config user.email "bot@dono.pt"
+          git add dados.json
+          git commit -m "Atualização diária $(date)" || exit 0
+          git push
