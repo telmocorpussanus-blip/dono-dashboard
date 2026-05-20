@@ -1,5 +1,5 @@
 {
-  "data": "2026-05-19T10:34:11.131700",
+  "data": "2026-05-20T10:20:48.969028",
   "empresas": [
     {
       "ticker": "MSFT",
@@ -7,9 +7,9 @@
       "tese": "Alugo o escritório digital ao mundo",
       "status": "verde",
       "sinais": [
-        "• Bill Gates Foundation reduces its Microsoft stake to Zero from 28.5 mi",
         "• Gates Foundation Trust ends an era, selling off all remaining Microsof",
-        "• Gates' foundation sold all of its Microsoft shares. Bill Ackman is loa"
+        "• How Microsoft Stock Can Climb To $600 - Forbes",
+        "• Microsoft Stock Is an AI Bargain That Investors Are Missing - Yahoo Fi"
       ]
     },
     {
@@ -19,8 +19,8 @@
       "status": "verde",
       "sinais": [
         "• Amazon, IBD's Stock Of The Day, Named 'Franchise Pick' As $3 Trillion ",
-        "• Amazon's Big Rally Takes A Breather Just Short Of $3 Trillion Club. Wh",
-        "• Amazon: Sell Before The Cash Flow Gets Worse (NASDAQ:AMZN) - Seeking A"
+        "• Amazon (AMZN) Stock Falls despite Surge in Trainium AI Chip Demand - T",
+        "• Warren Buffett's Successor Greg Abel Just Dumped Amazon Stock: 2 AI St"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tese": "Vendo a única pá das minas de IA",
       "status": "amarelo",
       "sinais": [
-        "• Here's how Nvidia stock has historically performed after earnings: Cha",
-        "• Trump trades millions in Nvidia, Apple, Microsoft while promoting comp",
-        "• Big Tech Is Cutting Back on Buybacks. Nvidia Could Be the Exception. -"
+        "• Nvidia and Apple hold stock market's power like never before: Chart of",
+        "• Dow Jones Futures Fall With Nvidia Earnings Due; Micron, Sandisk, Aste",
+        "• Here's how Nvidia stock has historically performed after earnings - Ya"
       ]
     },
     {
@@ -40,20 +40,20 @@
       "tese": "Faço mísseis contra cancro",
       "status": "amarelo",
       "sinais": [
-        "✓ ENHERTU’s Early Breast Cancer Approval Might Change The Case For Inves",
-        "• Full Year 2026 Daiichi Sankyo Co Ltd Earnings Presentation Transcript ",
-        "• Daiichi pushes back annual report, citing reviews amid ‘rapidly changi"
+        "• We Think Daiichi Jitsugyo's (TSE:8059) Solid Earnings Are Understated ",
+        "• Daiichi pushes back annual report, citing reviews amid ‘rapidly changi",
+        "• Daiichi Sankyo shares slip after delaying annual earnings report - Bio"
       ]
     },
     {
       "ticker": "NVO",
       "nome": "Novo Nordisk",
       "tese": "Tiro a fome com hormona",
-      "status": "verde",
+      "status": "vermelho",
       "sinais": [
-        "✓ Weight-loss wars go global as Novo Nordisk bets big on its Wegovy pill",
-        "• Assessing Novo Nordisk (NYSE:NVO) Valuation After Recent Share Price R",
-        "• Novo Nordisk Details Progress on DKK 15 Billion Share Buyback Programm"
+        "• Novo Nordisk A/S - share repurchase programme - Yahoo Finance",
+        "🔴 Watch Out, Eli Lilly and Novo Nordisk: Viking Therapeutics' Pill Could",
+        "• Novo Nordisk: 2 Reasons To Buy The World's Cheapest GLP-1 Giant (NYSE:"
       ]
     },
     {
@@ -62,7 +62,7 @@
       "tese": "Empresto a jovens",
       "status": "verde",
       "sinais": [
-        "• Sallie Mae (SLM): Buy, Sell, or Hold Post Q1 Earnings? - StockStory",
+        "• Sallie Mae (SLM): Buy, Sell, or Hold Post Q1 Earnings? - TradingView",
         "• Why Sallie Mae (SLM) Stock Is Trading Lower Today - Yahoo Finance",
         "• Investors tender nearly 90% of Sallie Mae 2026 notes at cash offer pri"
       ]
@@ -73,9 +73,9 @@
       "tese": "Compro lojas, distribuo renda",
       "status": "verde",
       "sinais": [
-        "• Realty Income (O): The Monthly Dividend Company with 667 Consecutive P",
-        "• Cantor Fitzgerald lowers Realty Income stock price target on guidance ",
-        "• Realty Income Announces 671st Consecutive Common Stock Monthly Dividen"
+        "• This More Than 5%-Yielding Stock Just Declared Its 671st Consecutive M",
+        "• Here is What to Know Beyond Why Realty Income Corporation (O) is a Tre",
+        "• North Dakota State Investment Board Acquires Shares of 31,008 Realty I"
       ]
     }
   ]
