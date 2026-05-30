@@ -1,5 +1,5 @@
 {
-  "data": "2026-05-29T10:39:26.065374",
+  "data": "2026-05-30T09:10:31.453469",
   "empresas": [
     {
       "ticker": "MSFT",
@@ -7,9 +7,9 @@
       "tese": "Alugo o escritório digital ao mundo",
       "status": "verde",
       "sinais": [
-        "• Why Microsoft Stock Is Surging Today - Yahoo Finance",
-        "• Microsoft Stock Blues Persist Despite Earnings Beat; Is Microsoft A Se",
-        "• Billionaire Bill Ackman Just Loaded Up on Microsoft Stock. Should You "
+        "• Microsoft (MSFT) Stock Trades Up, Here Is Why - Yahoo Finance",
+        "• Microsoft Stock (NASDAQ:MSFT) Surges Despite Urgent FBI Warning for Al",
+        "• Why Is Microsoft (MSFT) Up 4.7% Since Last Earnings Report? - Yahoo Fi"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tese": "Cobro portagem e alugo a internet",
       "status": "verde",
       "sinais": [
-        "• Amazon's dividends & stock splits: What you need to know - thestreet.c",
         "• Snowflake rockets 36% on earnings beat and plan to spend $6 billion on",
-        "✓ Snowflake stock soars on growing enterprise AI demand, AWS partnership"
+        "• Amazon's dividends & stock splits: What you need to know - Yahoo Finan",
+        "• Amazon Chases $3 Trillion Market Cap As Prime Day 2026 Looms - Investo"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tese": "Vendo a única pá das minas de IA",
       "status": "amarelo",
       "sinais": [
-        "• Stocks In AI Bottleneck Soar 1,000%. Now Nvidia Is Demanding 20X More ",
-        "• 3 Reasons to Buy Nvidia Stock in June - The Motley Fool",
-        "• Snowflake, Unusual Machines, Nvidia, and More Stocks That Explain the "
+        "• Nvidia Stock Has Struggled Over the Last Week. Here's What I Think Is ",
+        "• Here are Friday's biggest analyst calls: Nvidia, Dell, Costco, Amazon,",
+        "• Dow Jones Futures: Market Hits Highs On Iran Hopes; Nvidia, Tesla Lead"
       ]
     },
     {
@@ -40,20 +40,20 @@
       "tese": "Faço mísseis contra cancro",
       "status": "amarelo",
       "sinais": [
+        "• Is It Time To Revisit Daiichi Sankyo (TSE:4568) After Its Recent Share",
         "• Daiichi Sankyo shares slip after delaying annual earnings report - Bio",
-        "• Is It Time To Reconsider Daiichi Sankyo Company (TSE:4568) After Recen",
-        "• Daiichi pushes back annual report, citing reviews amid ‘rapidly changi"
+        "• Is It Time To Reconsider Daiichi Sankyo Company (TSE:4568) After Recen"
       ]
     },
     {
       "ticker": "NVO",
       "nome": "Novo Nordisk",
       "tese": "Tiro a fome com hormona",
-      "status": "vermelho",
+      "status": "verde",
       "sinais": [
-        "• Novo Nordisk (NVO) Among Our Most Undervalued Foreign Stocks to Buy No",
-        "• Wall Street Underestimates Novo Nordisk’s GLP-1 Comeback (NYSE:NVO) - ",
-        "🔴 Contrarian Opinion: Novo Nordisk Is A Better Buy Than Eli Lilly Right "
+        "• Novo Nordisk Stock (NVO) Opinions on CVS Coverage Shift - Quiver Quant",
+        "• Is Novo Nordisk (NYSE:NVO) Pricing Look Interesting After Recent Share",
+        "✓ Wegovy pill sales smash forecasts, sending Novo Nordisk stock higher -"
       ]
     },
     {
@@ -62,8 +62,8 @@
       "tese": "Empresto a jovens",
       "status": "verde",
       "sinais": [
+        "• Sallie Mae Co-President and CFO to Speak at 2026 Morgan Stanley US Fin",
         "• Why Sallie Mae (SLM) Stock Is Trading Lower Today - Yahoo Finance",
-        "• Q1 Consumer Finance Earnings: Sallie Mae (NASDAQ:SLM) Impresses - Trad",
         "• Sallie Mae Reports Fourth Quarter and Full-Year 2025 Financial Results"
       ]
     },
@@ -73,9 +73,9 @@
       "tese": "Compro lojas, distribuo renda",
       "status": "verde",
       "sinais": [
-        "• A Look At Realty Income (O) Valuation As Share Price Softens Despite S",
         "• Realty Income: The Market Is Mispricing The New Trajectory (NYSE:O) - ",
-        "• Cramer's lightning round: Realty Income 'is going to go higher' - CNBC"
+        "• Cramer's lightning round: Realty Income 'is going to go higher' - CNBC",
+        "• A Look At Realty Income (O) Valuation As Share Price Softens Despite S"
       ]
     }
   ]
