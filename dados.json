@@ -1,5 +1,5 @@
 {
-  "data": "2026-06-07T09:56:07.289175",
+  "data": "2026-06-08T11:50:25.042656",
   "empresas": [
     {
       "ticker": "MSFT",
@@ -7,9 +7,9 @@
       "tese": "Alugo o escritório digital ao mundo",
       "status": "verde",
       "sinais": [
-        "• Amazon vs. Microsoft: Which Cloud Stock Wins for Patient Investors? - ",
-        "• Microsoft Shows Off In-House Tech. Is the Stock a Buy? - Yahoo Finance",
-        "• Microsoft Stock Rejected A Key Resistance Level. What's Next (NASDAQ:M"
+        "• Wells Fargo Raises PT on Microsoft (MSFT) Stock - Yahoo Finance",
+        "• Amazon, Microsoft fare better than most in tech stock sell-off spree -",
+        "• Have Microsoft Insiders Been Selling Stock? - Moomoo"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tese": "Cobro portagem e alugo a internet",
       "status": "verde",
       "sinais": [
-        "• Is Amazon Stock a Buy Right Now? - Yahoo Finance",
-        "• Amazon, Microsoft fare better than most in tech stock sell-off spree -",
-        "• Amazon and Google Announce AI Deals. The Stocks Are Rising Above the T"
+        "• Amazon vs. Microsoft: Which Cloud Stock Wins for Patient Investors? - ",
+        "• Amazon.com, Inc. (AMZN): Top 10 Stocks That Members of Congress Own - ",
+        "• Amazon, Microsoft fare better than most in tech stock sell-off spree -"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tese": "Vendo a única pá das minas de IA",
       "status": "amarelo",
       "sinais": [
-        "• The next NVIDIA? These 3 stocks below $50 are poised to win the next A",
-        "• Tech Stocks Fall. Why Broadcom, Google, AI IPOs May Have Triggered Sel",
-        "• Is Nvidia (NVDA) Fairly Priced After Its Recent Share Price Pullback? "
+        "• Nvidia CEO Shrugs Off Tech Stock Rout With AI Just ‘Beginning’ - Bloom",
+        "• Nvidia Stock Rises as CEO Says Chip Selloff Should Make Investors ‘Ver",
+        "• Nvidia CEO Says Selloff in Tech Stocks Is a Buying Opportunity - Yahoo"
       ]
     },
     {
@@ -40,8 +40,8 @@
       "tese": "Faço mísseis contra cancro",
       "status": "amarelo",
       "sinais": [
-        "• Are Daiichi Sankyo Company’s (TSE:4568) ASCO 2026 ADC Data Deepening I",
         "• Assessing Daiichi Sankyo Company (TSE:4568) Valuation After Recent Sha",
+        "• Are Daiichi Sankyo Company’s (TSE:4568) ASCO 2026 ADC Data Deepening I",
         "• JPMorgan cuts Daiichi Sankyo stock rating on weak outlook - Investing."
       ]
     },
@@ -49,11 +49,11 @@
       "ticker": "NVO",
       "nome": "Novo Nordisk",
       "tese": "Tiro a fome com hormona",
-      "status": "verde",
+      "status": "vermelho",
       "sinais": [
-        "• Here's What I Think Is Really Going on With Novo Nordisk Stock - The M",
-        "• Why Did Novo Nordisk Stock Plummet Recently - Kavout",
-        "• Why Is Novo Nordisk Stock Climbing Premarket Today? - Stocktwits"
+        "🔴 Eli Lilly, Novo Both Share Good News on Weight-Loss Drugs. Only One St",
+        "• Wall Street sees huge upside as Novo Nordisk backs biotech company - t",
+        "✓ Novo's Wegovy Pill Isn't Just Beating Expectations -- It's Obliteratin"
       ]
     },
     {
@@ -73,9 +73,9 @@
       "tese": "Compro lojas, distribuo renda",
       "status": "verde",
       "sinais": [
-        "• Want Income for Life? Here Are 3 Stocks to Buy Now and Never Sell. - T",
         "• Is It Time To Reassess Realty Income (O) After Recent Share Price Swin",
-        "• Want Income for Life? Here Are 3 Stocks to Buy Now and Never Sell. - A"
+        "• Motley Fool: Growth and dividends from real estate - The Spokesman-Rev",
+        "• Realty Income Announces 671st Consecutive Common Stock Monthly Dividen"
       ]
     }
   ]
