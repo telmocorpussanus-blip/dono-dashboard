@@ -1,5 +1,5 @@
 {
-  "data": "2026-06-11T11:18:41.197756",
+  "data": "2026-06-12T10:57:23.009975",
   "empresas": [
     {
       "ticker": "MSFT",
@@ -7,9 +7,9 @@
       "tese": "Alugo o escritório digital ao mundo",
       "status": "verde",
       "sinais": [
+        "• Microsoft Stock Is Trailing the Market in 2026. Here's Why It's a Scre",
         "• Oracle Bet $300 Billion on OpenAI. What the IPO Means for Larry Elliso",
-        "• Is Microsoft Stock Too Cheap To Ignore? - Trefis",
-        "• Microsoft Shares Edge Lower Monday As Nasdaq Rallies: What's Going On?"
+        "• Why Microsoft Stock Slipped Today - Yahoo Finance"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tese": "Cobro portagem e alugo a internet",
       "status": "verde",
       "sinais": [
-        "• Corning Stock Rises. Glassmaker Scores Multibillion-Dollar Deal With A",
-        "• ‘No. 2 Can Still Win,’ Says Analyst About Amazon Stock - TipRanks",
-        "• Barclays reiterates Amazon stock Overweight rating on India growth - I"
+        "• Amazon trucking expansion sparks freight stock sell-off - CNBC",
+        "• Amazon's stock buybacks explained - Yahoo Finance Singapore",
+        "• This ‘Amazon For Travel’ Platform Beat Earnings Expectations. The Stoc"
       ]
     },
     {
@@ -30,8 +30,8 @@
       "status": "amarelo",
       "sinais": [
         "• Nvidia Stock Trades Cheaper Than the S&P 500, and Looks Even More Like",
-        "• Dow Jones AI Giant Nvidia Stock Tumbles To Key Support Level Amid Mark",
-        "• Better Artificial Intelligence (AI) Stock Buy in June: AMD vs. Nvidia "
+        "• Nvidia Stock Trades Cheaper Than the S&P 500, and Looks Even More Like",
+        "• NVIDIA’s Outlook Gains Momentum: Stock Price to Follow - MarketBeat"
       ]
     },
     {
@@ -42,18 +42,18 @@
       "sinais": [
         "• Stock ownership change report: SQUEEZE (from 8.67% to 12.22%) by Daiic",
         "• Assessing Daiichi Sankyo Company (TSE:4568) Valuation After Recent Sha",
-        "• Are Daiichi Sankyo Company’s (TSE:4568) ASCO 2026 ADC Data Deepening I"
+        "• Daiichi Sankyo shares slip after delaying annual earnings report - Bio"
       ]
     },
     {
       "ticker": "NVO",
       "nome": "Novo Nordisk",
       "tese": "Tiro a fome com hormona",
-      "status": "vermelho",
+      "status": "verde",
       "sinais": [
-        "• Assessing Novo Nordisk (CPSE:NOVO B) Valuation As Share Price Weakness",
-        "🔴 Eli Lilly, Novo Both Share Good News on Weight-Loss Drugs. Only One St",
-        "• Novo Nordisk: The Biggest Healthcare Bargain (NYSE:NVO) - Seeking Alph"
+        "• Novo Nordisk (NVO): Top 10 Large Cap Value Stocks to Buy Now - Yahoo F",
+        "✓ Novo Nordisk Wegovy pill draws 10,000 UK waitlist ahead of approval - ",
+        "• Assessing Novo Nordisk (CPSE:NOVO B) Valuation As Share Price Weakness"
       ]
     },
     {
@@ -62,9 +62,9 @@
       "tese": "Empresto a jovens",
       "status": "verde",
       "sinais": [
-        "• Sallie Mae stock dips on fresh concerns over charge-offs, impact on re",
-        "• M.D. Sass Exits Sallie Mae -- Selling Its Entire $33.1 Million Stake -",
-        "• Sallie Mae (SLM) Faces Charge-Off Concerns, Shares Drop - GuruFocus"
+        "• Sallie Mae Stock Tumbles 7.6% on Elevated Charge-Off Concerns - Yahoo ",
+        "• symbol__ Stock Quote Price and Forecast - CNN",
+        "• Sallie Mae stock dips on fresh concerns over charge-offs, impact on re"
       ]
     },
     {
@@ -73,9 +73,9 @@
       "tese": "Compro lojas, distribuo renda",
       "status": "verde",
       "sinais": [
-        "✓ Is Realty Income’s Higher Dividend And AFFO Outlook Altering The Inves",
         "• 135th Common Stock Monthly Dividend Increase Declared by Realty Income",
-        "• Realty Income Vs. EastGroup: A Case Study In Overcoming Cost Of Capita"
+        "• Want $1,000 a Month in Dividends? Here’s How Much of This Stock You’d ",
+        "• Should Realty Income’s 135th Dividend Hike Signal a Deeper Shift in O’"
       ]
     }
   ]
