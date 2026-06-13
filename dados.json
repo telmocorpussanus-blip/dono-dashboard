@@ -1,5 +1,5 @@
 {
-  "data": "2026-06-12T10:57:23.009975",
+  "data": "2026-06-13T09:52:34.554001",
   "empresas": [
     {
       "ticker": "MSFT",
@@ -7,9 +7,9 @@
       "tese": "Alugo o escritório digital ao mundo",
       "status": "verde",
       "sinais": [
-        "• Microsoft Stock Is Trailing the Market in 2026. Here's Why It's a Scre",
-        "• Oracle Bet $300 Billion on OpenAI. What the IPO Means for Larry Elliso",
-        "• Why Microsoft Stock Slipped Today - Yahoo Finance"
+        "• Microsoft Stock Is Having a Rough Week. It’s the Latest AI Play Under ",
+        "• Microsoft Just Gave Investors 3 Dates They Can't Afford to Ignore - Ma",
+        "• Microsoft Stock Price Prediction: A New Record High on the Horizon? - "
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tese": "Cobro portagem e alugo a internet",
       "status": "verde",
       "sinais": [
-        "• Amazon trucking expansion sparks freight stock sell-off - CNBC",
-        "• Amazon's stock buybacks explained - Yahoo Finance Singapore",
-        "• This ‘Amazon For Travel’ Platform Beat Earnings Expectations. The Stoc"
+        "• Amazon Stock Trading In A Range Sets Direction Toward A Quick Return -",
+        "• Bank of America resets Amazon stock forecast on key service launch - t",
+        "• Amazon Stock Could Soar Over the Next Few Years -- and It's Coming Fro"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tese": "Vendo a única pá das minas de IA",
       "status": "amarelo",
       "sinais": [
-        "• Nvidia Stock Trades Cheaper Than the S&P 500, and Looks Even More Like",
-        "• Nvidia Stock Trades Cheaper Than the S&P 500, and Looks Even More Like",
-        "• NVIDIA’s Outlook Gains Momentum: Stock Price to Follow - MarketBeat"
+        "• How Nvidia Can Benefit From SpaceX Stock’s Performance - Barron's",
+        "• Cramer Calls Intel the \"Number One Name\" and \"More Important Than NVID",
+        "• SpaceX or Nvidia stock? Here’s where I’ve got my money - Yahoo Finance"
       ]
     },
     {
@@ -42,18 +42,18 @@
       "sinais": [
         "• Stock ownership change report: SQUEEZE (from 8.67% to 12.22%) by Daiic",
         "• Assessing Daiichi Sankyo Company (TSE:4568) Valuation After Recent Sha",
-        "• Daiichi Sankyo shares slip after delaying annual earnings report - Bio"
+        "• Nikkei adds 11 stocks including Dai-ichi Life to high dividend index -"
       ]
     },
     {
       "ticker": "NVO",
       "nome": "Novo Nordisk",
       "tese": "Tiro a fome com hormona",
-      "status": "verde",
+      "status": "vermelho",
       "sinais": [
+        "• Novo Nordisk (NYSE:NVO) Stock Valuation Gap Questioned After Recent Sh",
         "• Novo Nordisk (NVO): Top 10 Large Cap Value Stocks to Buy Now - Yahoo F",
-        "✓ Novo Nordisk Wegovy pill draws 10,000 UK waitlist ahead of approval - ",
-        "• Assessing Novo Nordisk (CPSE:NOVO B) Valuation As Share Price Weakness"
+        "🔴 Contrarian Opinion: Novo Nordisk Is A Better Buy Than Eli Lilly Right "
       ]
     },
     {
@@ -73,9 +73,9 @@
       "tese": "Compro lojas, distribuo renda",
       "status": "verde",
       "sinais": [
-        "• 135th Common Stock Monthly Dividend Increase Declared by Realty Income",
-        "• Want $1,000 a Month in Dividends? Here’s How Much of This Stock You’d ",
-        "• Should Realty Income’s 135th Dividend Hike Signal a Deeper Shift in O’"
+        "• Why Realty Income Corp. (O) Outpaced the Stock Market Today - Yahoo Fi",
+        "✓ Realty Income (O) Stock After Dividend Hike And Higher AFFO Guidance H",
+        "• With 135 Dividend Increases (And Counting), This High-Yield Stock Rema"
       ]
     }
   ]
