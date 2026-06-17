@@ -1,5 +1,5 @@
 {
-  "data": "2026-06-16T12:05:39.500496",
+  "data": "2026-06-17T11:29:33.050379",
   "empresas": [
     {
       "ticker": "MSFT",
@@ -7,9 +7,9 @@
       "tese": "Alugo o escritório digital ao mundo",
       "status": "verde",
       "sinais": [
-        "• Microsoft sued by shareholders over expenses, cloud business, AI - Reu",
-        "• Microsoft (MSFT) Is A Value Stock To Benefit From The New Cloud Boom -",
-        "• Is The AI Boom Already Priced Out of Microsoft Stock? - Trefis"
+        "• SpaceX market cap briefly tops Microsoft, still ahead of Amazon - qz.c",
+        "• Nvidia CEO Jensen Huang Just Announced Fantastic News to Microsoft Sto",
+        "• Microsoft sued by shareholders over expenses, cloud business, AI - Reu"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tese": "Cobro portagem e alugo a internet",
       "status": "verde",
       "sinais": [
-        "• AMZN Stock Jumps — Amazon Announces Multibillion-Dollar Data Center Ex",
-        "• The Better AI Cloud Stock: Microsoft or Amazon? - The Motley Fool",
-        "• What's Going On With Amazon Stock Monday? - Benzinga"
+        "• Are You Pricing Amazon Stock For The Past Or The Future? - Trefis",
+        "• Stock Market Today, June 16: SpaceX Overtakes Amazon as Valuation Tops",
+        "• Can Amazon Reach $300 Per Share Before Year-End 2026? - 24/7 Wall St."
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tese": "Vendo a única pá das minas de IA",
       "status": "amarelo",
       "sinais": [
-        "• Nvidia Is Selling Debt for the First Time in Five Years. Why the Stock",
-        "• Nvidia (NVDA) Receives a Rating Update from a Top Analyst - The Globe ",
-        "• Elon Musk Says He's Building a Chip '2-3x Better Than Nvidia' at 10% t"
+        "• Nvidia Stock: How the Chip Maker Is Trading Today - Barron's",
+        "• Can Nvidia Stock Reach $743 in the Next 12 Months? - The Motley Fool",
+        "• Marvell Technology (NasdaqGS:MRVL) Gets Nvidia Backing And A $2 Billio"
       ]
     },
     {
@@ -40,19 +40,19 @@
       "tese": "Faço mísseis contra cancro",
       "status": "amarelo",
       "sinais": [
+        "• Daiichi Sankyo Company, Limited Concludes Money Loan Agreement with Fi",
         "• Assessing Daiichi Sankyo Company (TSE:4568) Valuation After Recent Sha",
-        "• Daiichi Sankyo shares slip after delaying annual earnings report - Bio",
-        "• Daiichi pushes back annual report, citing reviews amid ‘rapidly changi"
+        "• Daiichi Sankyo shares slip after delaying annual earnings report - Bio"
       ]
     },
     {
       "ticker": "NVO",
       "nome": "Novo Nordisk",
       "tese": "Tiro a fome com hormona",
-      "status": "verde",
+      "status": "vermelho",
       "sinais": [
-        "• Novo Nordisk A/S - share repurchase programme - Yahoo Finance",
-        "• Novo Nordisk: The Danish Empire Strikes Back (NYSE:NVO) - Seeking Alph",
+        "🔴 Eli Lilly vs. Novo Nordisk: Better Obesity Drug Stock? - Yahoo Finance",
+        "• Novo Nordisk: I Was Fooled By The Market Again (Rating Upgrade) (NYSE:",
         "• Novo Nordisk Gains 7% in a Week: How Should Investors Play the Stock? "
       ]
     },
@@ -63,8 +63,8 @@
       "status": "verde",
       "sinais": [
         "• symbol__ Stock Quote Price and Forecast - CNN",
-        "• Sallie Mae stock dips on fresh concerns over charge-offs, impact on re",
-        "• Sallie Mae Stock Tumbles 7.6% on Elevated Charge-Off Concerns - Tradin"
+        "• Sallie Mae Stock Tumbles 7.6% on Elevated Charge-Off Concerns - Tradin",
+        "• Why Sallie Mae (SLM) Stock Is Trading Lower Today - Yahoo Finance"
       ]
     },
     {
@@ -73,9 +73,9 @@
       "tese": "Compro lojas, distribuo renda",
       "status": "verde",
       "sinais": [
+        "• Realty Income (O) Stock Could Be 12.4% Undervalued After Its Latest Di",
         "• Realty Income For Safety And Consistently Rising Monthly Income (Ratin",
-        "• With 135 Dividend Increases (And Counting), This High-Yield Stock Rema",
-        "• With 135 Dividend Increases (And Counting), This High-Yield Stock Rema"
+        "• This Dividend Stock Has Paid Shareholders Every Month for 30+ Years. I"
       ]
     }
   ]
