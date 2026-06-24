@@ -1,5 +1,5 @@
 {
-  "data": "2026-06-23T10:29:46.102757",
+  "data": "2026-06-24T10:14:53.078463",
   "empresas": [
     {
       "ticker": "MSFT",
@@ -7,20 +7,20 @@
       "tese": "Alugo o escritório digital ao mundo",
       "status": "verde",
       "sinais": [
-        "• Can Investing in Microsoft Stock Double Your Money? - The Motley Fool",
-        "✓ JMP Securities reiterates Microsoft stock rating on Copilot expansion ",
-        "• Down 30% From Its All-Time High: Why You'll Regret Not Loading Up on M"
+        "• Down 30% From Its All-Time High: Why You'll Regret Not Loading Up on M",
+        "• Jim Cramer Reveals What He’d Like To See With Microsoft (MSFT) - Yahoo",
+        "• How To Play The Options Game With This Struggling Software Titan - Inv"
       ]
     },
     {
       "ticker": "AMZN",
       "nome": "Amazon",
       "tese": "Cobro portagem e alugo a internet",
-      "status": "verde",
+      "status": "vermelho",
       "sinais": [
         "• Amazon Prime Day Forecast Is For Record Sales. Can It Revive Amazon St",
-        "• Amazon: I'm Buying The Free Cash Flow Collapse - Seeking Alpha",
-        "• Amazon.com Inc Stock (AMZN) Moved Down by 4.27% on Jun 22: Key Drivers"
+        "🔴 Alphabet Sinks 6%, Amazon Slides 4% Amid AI Capex Anxiety Across the H",
+        "• Down 10% From Its Peak, Is Amazon Stock the Ultimate Summer Buying Opp"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tese": "Vendo a única pá das minas de IA",
       "status": "amarelo",
       "sinais": [
-        "• Nvidia's stock struggles as Kalshi traders bet chip prices are coming ",
-        "• David Tepper Trimmed Nvidia and AMD, but Doubled Down on This AI Stock",
-        "• Meet the Unstoppable Stock That Obliterated Nvidia, Broadcom, and Adva"
+        "• Nvidia, Micron, AMD lead tech sell-off as AI trade cools - Yahoo Finan",
+        "• Tech stocks tumble for a second day. Here's what's behind the selloff.",
+        "• Stock Market Today: Nasdaq Falls 580 Points; Micron, Sandisk Are Big L"
       ]
     },
     {
@@ -40,8 +40,8 @@
       "tese": "Faço mísseis contra cancro",
       "status": "amarelo",
       "sinais": [
-        "• How Expanded Stock-Based Pay At Daiichi Life Group (TSE:8750) Has Chan",
         "• Assessing Daiichi Sankyo Company (TSE:4568) Valuation After Recent Sha",
+        "• How Expanded Stock-Based Pay At Daiichi Life Group (TSE:8750) Has Chan",
         "• Daiichi Sankyo Approves 214 Million Yen Treasury Stock Disposal - mark"
       ]
     },
@@ -51,9 +51,9 @@
       "tese": "Tiro a fome com hormona",
       "status": "verde",
       "sinais": [
+        "• Novo Nordisk Stock Is Surging Monday: What's Driving The Action? - Nov",
         "• Here is why Novo Nordisk A/S (NVO) is among the Best Longevity and Ant",
-        "✓ Novo Nordisk's Wegovy Pill Just Hit 3 Million Prescriptions. Is Wall S",
-        "• Novo Nordisk Stock Is Surging Monday: What's Driving The Action? - Nov"
+        "• Novo Nordisk: The Selloff Looks Like A Gift - And I'm Buying (NYSE:NVO"
       ]
     },
     {
@@ -64,7 +64,7 @@
       "sinais": [
         "• Sallie Mae Stock Tumbles 7.6% on Elevated Charge-Off Concerns - Yahoo ",
         "• Sallie Mae stock dips on fresh concerns over charge-offs, impact on re",
-        "• Sallie Mae Stock Down 15% in a Year, and One Fund Just Dumped Its $5.5"
+        "• M.D. Sass Exits Sallie Mae -- Selling Its Entire $33.1 Million Stake -"
       ]
     },
     {
@@ -73,9 +73,9 @@
       "tese": "Compro lojas, distribuo renda",
       "status": "verde",
       "sinais": [
-        "• Realty Income (O) Stock After Recent Interest Rate Jitters Is The Pric",
-        "• Is Realty Income’s Bigger 2026 Investment Plan Rewriting the Diversifi",
-        "• 135th Common Stock Monthly Dividend Increase Declared by Realty Income"
+        "• 135th Common Stock Monthly Dividend Increase Declared by Realty Income",
+        "• Realty Income Corp. (O) Increases Despite Market Slip: Here's What You",
+        "• Realty Income (O) Stock After Recent Pullback Is The Valuation Gap Jus"
       ]
     }
   ]
