@@ -1,5 +1,5 @@
 {
-  "data": "2026-06-24T10:14:53.078463",
+  "data": "2026-06-25T10:11:52.355213",
   "empresas": [
     {
       "ticker": "MSFT",
@@ -7,20 +7,20 @@
       "tese": "Alugo o escritório digital ao mundo",
       "status": "verde",
       "sinais": [
+        "• ‘History Suggests a Rebound Ahead,’ Says Top Investor About Microsoft ",
         "• Down 30% From Its All-Time High: Why You'll Regret Not Loading Up on M",
-        "• Jim Cramer Reveals What He’d Like To See With Microsoft (MSFT) - Yahoo",
-        "• How To Play The Options Game With This Struggling Software Titan - Inv"
+        "• Stifel cuts Microsoft stock price target on margin concerns - Investin"
       ]
     },
     {
       "ticker": "AMZN",
       "nome": "Amazon",
       "tese": "Cobro portagem e alugo a internet",
-      "status": "vermelho",
+      "status": "verde",
       "sinais": [
         "• Amazon Prime Day Forecast Is For Record Sales. Can It Revive Amazon St",
-        "🔴 Alphabet Sinks 6%, Amazon Slides 4% Amid AI Capex Anxiety Across the H",
-        "• Down 10% From Its Peak, Is Amazon Stock the Ultimate Summer Buying Opp"
+        "• Should You Buy Amazon Stock Before June 26? - Yahoo Finance",
+        "• Amazon Boosted By Prime Day Data, Unveils Robotaxi Updates. Stock Clim"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tese": "Vendo a única pá das minas de IA",
       "status": "amarelo",
       "sinais": [
-        "• Nvidia, Micron, AMD lead tech sell-off as AI trade cools - Yahoo Finan",
+        "• Nvidia Stock Tests Key Support Level. What’s Keeping It From Rising? -",
         "• Tech stocks tumble for a second day. Here's what's behind the selloff.",
-        "• Stock Market Today: Nasdaq Falls 580 Points; Micron, Sandisk Are Big L"
+        "• AI trade’s biggest stock pick winners for 2026 - inc.com"
       ]
     },
     {
@@ -42,7 +42,7 @@
       "sinais": [
         "• Assessing Daiichi Sankyo Company (TSE:4568) Valuation After Recent Sha",
         "• How Expanded Stock-Based Pay At Daiichi Life Group (TSE:8750) Has Chan",
-        "• Daiichi Sankyo Approves 214 Million Yen Treasury Stock Disposal - mark"
+        "• Daiichi pushes back annual report, citing reviews amid ‘rapidly changi"
       ]
     },
     {
@@ -51,9 +51,9 @@
       "tese": "Tiro a fome com hormona",
       "status": "verde",
       "sinais": [
-        "• Novo Nordisk Stock Is Surging Monday: What's Driving The Action? - Nov",
         "• Here is why Novo Nordisk A/S (NVO) is among the Best Longevity and Ant",
-        "• Novo Nordisk: The Selloff Looks Like A Gift - And I'm Buying (NYSE:NVO"
+        "• Novo Nordisk: The Selloff Looks Like A Gift - And I'm Buying (NYSE:NVO",
+        "• Novo Nordisk Details Progress in DKK 15 Billion Share Buyback - TipRan"
       ]
     },
     {
@@ -62,8 +62,8 @@
       "tese": "Empresto a jovens",
       "status": "verde",
       "sinais": [
-        "• Sallie Mae Stock Tumbles 7.6% on Elevated Charge-Off Concerns - Yahoo ",
         "• Sallie Mae stock dips on fresh concerns over charge-offs, impact on re",
+        "• Sallie Mae Stock Tumbles 7.6% on Elevated Charge-Off Concerns - Yahoo ",
         "• M.D. Sass Exits Sallie Mae -- Selling Its Entire $33.1 Million Stake -"
       ]
     },
@@ -74,8 +74,8 @@
       "status": "verde",
       "sinais": [
         "• 135th Common Stock Monthly Dividend Increase Declared by Realty Income",
-        "• Realty Income Corp. (O) Increases Despite Market Slip: Here's What You",
-        "• Realty Income (O) Stock After Recent Pullback Is The Valuation Gap Jus"
+        "• Realty Income (O) Stock After Recent Interest Rate Jitters Is The Pric",
+        "• Realty Income Stock And 2 High Yield REITs For Reliable Monthly Income"
       ]
     }
   ]
