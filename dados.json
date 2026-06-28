@@ -1,5 +1,5 @@
 {
-  "data": "2026-06-27T09:24:05.842420",
+  "data": "2026-06-28T09:53:57.264721",
   "empresas": [
     {
       "ticker": "MSFT",
@@ -7,9 +7,9 @@
       "tese": "Alugo o escritório digital ao mundo",
       "status": "verde",
       "sinais": [
-        "• Microsoft’s Stock Is Crippled - Yahoo Finance",
-        "• What Does Microsoft Stock’s $223 Billion Payout Mean For Your Portfoli",
-        "• Why Microsoft Stock Rose Today - The Motley Fool"
+        "• Why Microsoft Stock Rose Today - The Motley Fool",
+        "• The Hidden Turbulence Priced Into Microsoft Stock - Trefis",
+        "• Wedbush Issues Bold Call on Beaten-Down Nvidia and Microsoft Stocks - "
       ]
     },
     {
@@ -19,8 +19,8 @@
       "status": "verde",
       "sinais": [
         "• Amazon Stock Slips Below Key Level. Why It's A Rough Day For Cloud Hyp",
-        "• Bill Ackman, David Tepper, and other billionaire fund managers are qui",
-        "• The Secret Chipmaker Inside Amazon Stock - Trefis"
+        "• What's Going On With Amazon Stock Thursday? - Benzinga",
+        "• The Secret Chipmaker Inside Amazon Stock - Yahoo Finance"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tese": "Vendo a única pá das minas de IA",
       "status": "amarelo",
       "sinais": [
-        "• Why Is Nvidia Stock So Cheap? This Is the Only Plausible Answer - Yaho",
-        "• Nvidia, Alphabet sit out megacap tech bounce as chip stocks sink - CNB",
-        "• 3 Great Stocks to Buy to Benefit From the Next Generation of AI Data C"
+        "• Nvidia Stock Keeps Falling as ‘Hot Money’ Heads Elsewhere - Barron's",
+        "• NVIDIA Stock Near Crucial Support – Buy Signal? - Trefis",
+        "• 2 Nvidia-Owned Stocks Investors Should Buy Now - Yahoo Finance"
       ]
     },
     {
@@ -40,8 +40,8 @@
       "tese": "Faço mísseis contra cancro",
       "status": "amarelo",
       "sinais": [
-        "• Daiichi Sankyo Company, Limited Actuals & Estimates (TSE:4568) - Tradi",
         "• Assessing Daiichi Sankyo Company (TSE:4568) Valuation After Recent Sha",
+        "• Daiichi Sankyo Company, Limited Actuals & Estimates (TSE:4568) - Tradi",
         "• Stock Correction Report: SQEEZE (12.28% → 12.28%), Dai-ichi Realter, e"
       ]
     },
@@ -49,11 +49,11 @@
       "ticker": "NVO",
       "nome": "Novo Nordisk",
       "tese": "Tiro a fome com hormona",
-      "status": "verde",
+      "status": "vermelho",
       "sinais": [
         "• HIMS Stock Eyes Big Monthly Win: Novo Nordisk Calls Hims & Hers One Of",
-        "• Novo Nordisk Details Progress in DKK 15 Billion Share Buyback - TipRan",
-        "• Top Research Reports for Shell, Novo Nordisk & SAP - Yahoo Finance"
+        "🔴 Contrarian Opinion: Novo Nordisk Is A Better Buy Than Eli Lilly Right ",
+        "✓ Wegovy pill sales smash forecasts, sending Novo Nordisk stock higher -"
       ]
     },
     {
@@ -62,8 +62,8 @@
       "tese": "Empresto a jovens",
       "status": "verde",
       "sinais": [
-        "• Sallie Mae Stock Tumbles 7.6% on Elevated Charge-Off Concerns - Yahoo ",
         "• Sallie Mae stock dips on fresh concerns over charge-offs, impact on re",
+        "• Sallie Mae Stock Tumbles 7.6% on Elevated Charge-Off Concerns - Yahoo ",
         "• M.D. Sass Exits Sallie Mae -- Selling Its Entire $33.1 Million Stake -"
       ]
     },
@@ -73,9 +73,9 @@
       "tese": "Compro lojas, distribuo renda",
       "status": "verde",
       "sinais": [
-        "• Here's How Many Shares of Realty Income Stock You'd Need to Make $500 ",
-        "• Here's How Many Shares of Realty Income Stock You'd Need to Make $500 ",
-        "• Realty Income - Forbes"
+        "• Realty Income (O) Stock After 17% One-Year Gain Is The Price Still Att",
+        "• Federal Realty Investment Trust vs. Realty Income: Which Real Estate S",
+        "• Here's How Many Shares of Realty Income Stock You'd Need to Make $500 "
       ]
     }
   ]
