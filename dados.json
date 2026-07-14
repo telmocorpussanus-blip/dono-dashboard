@@ -1,5 +1,5 @@
 {
-  "data": "2026-07-13T10:16:48.456661",
+  "data": "2026-07-14T08:59:58.711184",
   "empresas": [
     {
       "ticker": "MSFT",
@@ -7,20 +7,20 @@
       "tese": "Alugo o escritório digital ao mundo",
       "status": "verde",
       "sinais": [
-        "• Goldman Sachs Sets Expectations on Microsoft Stock Ahead of Earnings -",
-        "• Alphabet vs. Amazon vs. Microsoft: Which Is the Best Cloud Computing S",
-        "• Amazon, Microsoft and Nvidia haven’t been this cheap for a decade. Is "
+        "• Should You Buy Microsoft Stock Before July 29? - Yahoo Finance",
+        "• Prediction: Microsoft Stock Could Go Parabolic After July 29. Here's W",
+        "• MSFT Stock Has Bounced From This Price Before. Now What? - Trefis"
       ]
     },
     {
       "ticker": "AMZN",
       "nome": "Amazon",
       "tese": "Cobro portagem e alugo a internet",
-      "status": "verde",
+      "status": "vermelho",
       "sinais": [
-        "• Alphabet vs. Amazon vs. Microsoft: Which Is the Best Cloud Computing S",
-        "• Price Prediction: Amazon Stock Will End The Year at This Price - Yahoo",
-        "• ‘Opportunity is Knocking,’ Says Top Investor About Amazon Stock - TipR"
+        "• Why I Can’t Stop Buying Amazon Stock - 24/7 Wall St.",
+        "• Amazon Stock Hasn't Been This Cheap in Over a Decade. Has the Sell-Off",
+        "🔴 AI Costs Keep Rising As Morgan Stanley Ups CapEx Estimates For Amazon,"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tese": "Vendo a única pá das minas de IA",
       "status": "amarelo",
       "sinais": [
-        "• Nvidia Stock Rises as It Shrugs Off Meta’s New AI Chip - Barron's",
-        "• Nvidia Stock Is Losing to the Market in 2026. Time to Walk Away or Dou",
-        "• Zacks Investment Ideas feature highlights: Taiwan, Nvidia and Apple - "
+        "• Nvidia Stock Isn’t Getting the Boost It Should from Big AI Spending - ",
+        "• By the end of this year, £5k in Nvidia stock could be worth… - Yahoo F",
+        "• What Investors Keep Asking About NVDA - Trefis"
       ]
     },
     {
@@ -40,9 +40,9 @@
       "tese": "Faço mísseis contra cancro",
       "status": "amarelo",
       "sinais": [
+        "• Daiichi Sankyo | 4568.T Stock Price & Real-time Quotes - finance.biggo",
         "• Canon Stock, Toyota And Daiichi Sankyo For Dividend Income In Japan - ",
-        "• Assessing Daiichi Sankyo Company (TSE:4568) Valuation After Recent Sha",
-        "• Daiichi Sankyo shares slip after delaying annual earnings report - Bio"
+        "• Assessing Daiichi Sankyo Company (TSE:4568) Valuation After Recent Sha"
       ]
     },
     {
@@ -52,8 +52,8 @@
       "status": "verde",
       "sinais": [
         "• Novo Nordisk Stock Up Over 2% Premarket Today — Thanks To OpenAI Tie-U",
-        "• 3 Reasons to Buy Novo Nordisk Stock - The Motley Fool",
-        "• Novo Nordisk (NVO) Stock May Be 50% Undervalued Despite Medicare GLP 1"
+        "• 3 Reasons to Buy Novo Nordisk Stock - Yahoo Finance",
+        "• 3 Reasons to Buy Novo Nordisk Stock - The Motley Fool"
       ]
     },
     {
@@ -62,8 +62,8 @@
       "tese": "Empresto a jovens",
       "status": "verde",
       "sinais": [
-        "• Sallie Mae to Release Second-Quarter Financial Results - Yahoo Finance",
         "• Sallie Mae Stock Tumbles 7.6% on Elevated Charge-Off Concerns - Yahoo ",
+        "• SLM (NASDAQ:SLM) Stock Price Expected to Rise, JPMorgan Chase & Co. An",
         "• Sallie Mae stock dips on fresh concerns over charge-offs, impact on re"
       ]
     },
@@ -73,9 +73,9 @@
       "tese": "Compro lojas, distribuo renda",
       "status": "verde",
       "sinais": [
-        "• Realty Income (O) Stock Looks Rich As Its 22% Three Year Return Holds ",
-        "• Realty Income Announces 673rd Consecutive Common Stock Monthly Dividen",
-        "• Realty Income (O) Stock Could Be 44% Undervalued Despite Data Center E"
+        "• Realty Income (O) Expands Credit Facilities To $5.5 Billion And Matche",
+        "• Realty Income Corp. stock outperforms competitors on strong trading da",
+        "• Realty Income Announces 673rd Consecutive Common Stock Monthly Dividen"
       ]
     }
   ]
