@@ -1,5 +1,5 @@
 {
-  "data": "2026-07-14T08:59:58.711184",
+  "data": "2026-07-15T09:05:29.534194",
   "empresas": [
     {
       "ticker": "MSFT",
@@ -7,20 +7,20 @@
       "tese": "Alugo o escritório digital ao mundo",
       "status": "verde",
       "sinais": [
-        "• Should You Buy Microsoft Stock Before July 29? - Yahoo Finance",
+        "• How To Get Paid To Buy Microsoft Stock At A 30% Discount - Trefis",
         "• Prediction: Microsoft Stock Could Go Parabolic After July 29. Here's W",
-        "• MSFT Stock Has Bounced From This Price Before. Now What? - Trefis"
+        "• MSFT Court News: Microsoft Class Action Lawsuit Alleges Securities Fra"
       ]
     },
     {
       "ticker": "AMZN",
       "nome": "Amazon",
       "tese": "Cobro portagem e alugo a internet",
-      "status": "vermelho",
+      "status": "verde",
       "sinais": [
-        "• Why I Can’t Stop Buying Amazon Stock - 24/7 Wall St.",
         "• Amazon Stock Hasn't Been This Cheap in Over a Decade. Has the Sell-Off",
-        "🔴 AI Costs Keep Rising As Morgan Stanley Ups CapEx Estimates For Amazon,"
+        "• Alphabet vs. Amazon vs. Microsoft: Which Is the Best Cloud Computing S",
+        "• Why I Can’t Stop Buying Amazon Stock - 24/7 Wall St."
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tese": "Vendo a única pá das minas de IA",
       "status": "amarelo",
       "sinais": [
-        "• Nvidia Stock Isn’t Getting the Boost It Should from Big AI Spending - ",
-        "• By the end of this year, £5k in Nvidia stock could be worth… - Yahoo F",
-        "• What Investors Keep Asking About NVDA - Trefis"
+        "• Nvidia Faces ‘Slight Delay’ in Rubin Chip Rollout. What It Means for t",
+        "• Where Will Nvidia Stock Be in 2030? - Yahoo Finance",
+        "• Here are Tuesday's biggest analyst calls: Nvidia, SK Hynix, Apple, Spa"
       ]
     },
     {
@@ -40,9 +40,9 @@
       "tese": "Faço mísseis contra cancro",
       "status": "amarelo",
       "sinais": [
-        "• Daiichi Sankyo | 4568.T Stock Price & Real-time Quotes - finance.biggo",
+        "• Assessing Daiichi Sankyo Company (TSE:4568) Valuation After Recent Sha",
         "• Canon Stock, Toyota And Daiichi Sankyo For Dividend Income In Japan - ",
-        "• Assessing Daiichi Sankyo Company (TSE:4568) Valuation After Recent Sha"
+        "• Daiichi Sankyo shares slip after delaying annual earnings report - Bio"
       ]
     },
     {
@@ -51,9 +51,9 @@
       "tese": "Tiro a fome com hormona",
       "status": "verde",
       "sinais": [
-        "• Novo Nordisk Stock Up Over 2% Premarket Today — Thanks To OpenAI Tie-U",
+        "• 2 Beaten-Down GLP-1 Stocks to Buy on the Dip - The Motley Fool",
         "• 3 Reasons to Buy Novo Nordisk Stock - Yahoo Finance",
-        "• 3 Reasons to Buy Novo Nordisk Stock - The Motley Fool"
+        "• Novo Nordisk (NVO) Stock May Be 50% Undervalued Despite Medicare GLP 1"
       ]
     },
     {
@@ -63,8 +63,8 @@
       "status": "verde",
       "sinais": [
         "• Sallie Mae Stock Tumbles 7.6% on Elevated Charge-Off Concerns - Yahoo ",
-        "• SLM (NASDAQ:SLM) Stock Price Expected to Rise, JPMorgan Chase & Co. An",
-        "• Sallie Mae stock dips on fresh concerns over charge-offs, impact on re"
+        "• Sallie Mae Stock Down 15% in a Year, and One Fund Just Dumped Its $5.5",
+        "• Sallie Mae to Release Second-Quarter Financial Results - Yahoo Finance"
       ]
     },
     {
@@ -73,8 +73,8 @@
       "tese": "Compro lojas, distribuo renda",
       "status": "verde",
       "sinais": [
-        "• Realty Income (O) Expands Credit Facilities To $5.5 Billion And Matche",
-        "• Realty Income Corp. stock outperforms competitors on strong trading da",
+        "• Realty Income (O) Stock Looks Rich As Its 22% Three Year Return Holds ",
+        "• Realty Income (O) Could Be 10% Undervalued As $5.5b Credit Expansion L",
         "• Realty Income Announces 673rd Consecutive Common Stock Monthly Dividen"
       ]
     }
