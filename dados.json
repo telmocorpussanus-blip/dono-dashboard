@@ -1,5 +1,5 @@
 {
-  "data": "2026-07-23T09:20:00.117370",
+  "data": "2026-07-24T09:15:04.021124",
   "empresas": [
     {
       "ticker": "MSFT",
@@ -7,9 +7,9 @@
       "tese": "Alugo o escritório digital ao mundo",
       "status": "verde",
       "sinais": [
+        "• Oppenheimer Issues Stark Message on Microsoft Stock Ahead of Earnings ",
         "• Going Into Earnings, Is Microsoft Stock a Buy, a Sell, or Fairly Value",
-        "✓ Concerns Rise as Copilot Loses Free Features, Microsoft Stock (NASDAQ:",
-        "• Prediction: Microsoft Stock Will Go Parabolic After July 29. Here's Wh"
+        "• Microsoft Stock And 2 Defense Names Facing SpaceX Volatility Exposure "
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tese": "Cobro portagem e alugo a internet",
       "status": "verde",
       "sinais": [
-        "• Should You Buy Amazon and Meta Platforms Stocks Before July 29? - Yaho",
-        "• Jeff Bezos Says Amazon Stock Plunged From $113 to $6 — Founders Should",
-        "• Should You Buy Amazon Stock, Even Though It Has Badly Underperformed t"
+        "• Why Amazon Stock is Down Today - Yahoo Finance",
+        "• Going Into Earnings, Is Amazon Stock a Buy, a Sell, or Fairly Valued? ",
+        "• Amazon Stock Slips Below Key Level As Google Sets Tone For Hefty AI Sp"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tese": "Vendo a única pá das minas de IA",
       "status": "amarelo",
       "sinais": [
-        "• Nvidia Stock: Tie-Up With Google on Robot Venture Fails to Boost Share",
-        "• Nvidia Hits Buy Trigger With Alphabet Earnings Due - Investor's Busine",
-        "• Nvidia: A Once-in-a-Decade Opportunity for Growth Investors - The Glob"
+        "• Why Nvidia Stock Isn’t Rallying as It Should After Alphabet Earnings -",
+        "• A Chinese CEO Just Outlined the Bear Case for NVIDIA. It Should Terrif",
+        "• NVIDIA is Acquiring ‘Dark Fiber’ Across the United States. Here’s Why "
       ]
     },
     {
@@ -40,8 +40,8 @@
       "tese": "Faço mísseis contra cancro",
       "status": "amarelo",
       "sinais": [
+        "• Toyota Stock Leads These Japanese Dividend Shares Worth A Closer Look ",
         "• Assessing Daiichi Sankyo Company (TSE:4568) Valuation After Recent Sha",
-        "• Toyota Stock And 2 Japanese Dividend Picks For Passive Income - simply",
         "• Daiichi Sankyo shares slip after delaying annual earnings report - Bio"
       ]
     },
@@ -49,11 +49,11 @@
       "ticker": "NVO",
       "nome": "Novo Nordisk",
       "tese": "Tiro a fome com hormona",
-      "status": "verde",
+      "status": "vermelho",
       "sinais": [
-        "• Here's Why Novo Nordisk (NVO) Fell More Than Broader Market - Yahoo Fi",
-        "• Novo Nordisk Stock Up Over 2% Premarket Today — Thanks To OpenAI Tie-U",
-        "✓ Novo Nordisk (NVO) Stock May Sit Below Fair Value Despite EU Wegovy Ap"
+        "• Novo Nordisk (NVO) Faces A Fair Value Debate, Is The Stock A Bargain? ",
+        "🔴 The Obesity Drug War Turns Ugly: Novo Nordisk Sues Eli Lilly and Wall ",
+        "🔴 Novo Nordisk Sues Eli Lilly Over ‘Deceptive’ GLP-1 Ads, Stock Impact S"
       ]
     },
     {
@@ -62,9 +62,9 @@
       "tese": "Empresto a jovens",
       "status": "verde",
       "sinais": [
-        "• Sallie Mae Sets Sept. 15 Payment Date for Two Dividends - Stock Titan",
-        "• Sallie Mae (SLM) Q2 Earnings: What To Expect - Yahoo Finance",
-        "• Sallie Mae Declares Dividends on Preferred Stock Series B and Common S"
+        "• symbol__ Stock Quote Price and Forecast - CNN",
+        "• Sallie Mae (SLM) Q2 Earnings: How Key Metrics Compare to Wall Street E",
+        "• Sallie Mae (NASDAQ:SLM) Misses Q2 CY2026 Sales Expectations - StockSto"
       ]
     },
     {
@@ -75,7 +75,7 @@
       "sinais": [
         "• This Dividend Stock's Moat Is as Wide as It Gets. 3 Reasons to Buy and",
         "• Realty Income: This Dividend Aristocrat Offers a 5% Yield and Looks 10",
-        "• Despite Underperformance, Realty Income Corporation Deserves Some Love"
+        "• Realty Income's Data Center Bet Could Turbocharge Dividend Growth Over"
       ]
     }
   ]
