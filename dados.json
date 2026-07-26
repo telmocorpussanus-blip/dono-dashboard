@@ -1,5 +1,5 @@
 {
-  "data": "2026-07-25T08:55:02.517539",
+  "data": "2026-07-26T09:07:51.289763",
   "empresas": [
     {
       "ticker": "MSFT",
@@ -8,8 +8,8 @@
       "status": "verde",
       "sinais": [
         "• Microsoft Stock Before Q4 Earnings: Buy Now or Wait for Results? - Yah",
-        "• Going Into Earnings, Is Microsoft Stock a Buy, a Sell, or Fairly Value",
-        "• Prediction: Microsoft Stock Will Go Parabolic After July 29. Here's Wh"
+        "• Which Is the Better Value Stock Right Now: Microsoft or Nvidia? - The ",
+        "• Going Into Earnings, Is Microsoft Stock a Buy, a Sell, or Fairly Value"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tese": "Cobro portagem e alugo a internet",
       "status": "verde",
       "sinais": [
-        "• Amazon stock slides as Prime Day data reveals shopper shift ahead of e",
-        "• Going Into Earnings, Is Amazon Stock a Buy, a Sell, or Fairly Valued? ",
-        "• AMZN Stock Layoffs: What to Know as Amazon Cuts AI Jobs - Barchart.com"
+        "• Is Now a Good Time to Buy Amazon Stock? - Yahoo Finance",
+        "• These stocks have momentum on their side heading into earnings, includ",
+        "• Amazon stock slides as Prime Day data reveals shopper shift ahead of e"
       ]
     },
     {
@@ -30,8 +30,8 @@
       "status": "amarelo",
       "sinais": [
         "• Nvidia Stock Has Been a Chip Stock Outperformer in July. Why Its Rally",
-        "• A Chinese CEO Just Outlined the Bear Case for NVIDIA. It Should Terrif",
-        "• UK investors are buying this stunning S&P 500 stock over Microsoft, Ne"
+        "• Which Is the Better Value Stock Right Now: Microsoft or Nvidia? - The ",
+        "• This semi stock just struck a deal with Nvidia. UBS sees big gains ahe"
       ]
     },
     {
@@ -49,11 +49,11 @@
       "ticker": "NVO",
       "nome": "Novo Nordisk",
       "tese": "Tiro a fome com hormona",
-      "status": "vermelho",
+      "status": "verde",
       "sinais": [
         "• Novo Nordisk Stock Up Over 2% Premarket Today — Thanks To OpenAI Tie-U",
         "• 3 Reasons to Buy Novo Nordisk Stock - Yahoo Finance",
-        "🔴 Novo Nordisk Sues Eli Lilly Over ‘Deceptive’ GLP-1 Ads, Stock Impact S"
+        "• 3 Reasons to Buy Novo Nordisk Stock - The Motley Fool"
       ]
     },
     {
@@ -73,9 +73,9 @@
       "tese": "Compro lojas, distribuo renda",
       "status": "verde",
       "sinais": [
-        "• Realty Income (O) Stock Trades At A Premium On Earnings While 3 Year R",
-        "• Realty Income Corp. (O) Surpasses Market Returns: Some Facts Worth Kno",
-        "• Despite Underperformance, Realty Income Corporation Deserves Some Love"
+        "• How a $25,000 Realty Income Investment Could Compound Into Real Retire",
+        "• How a $25,000 Realty Income Investment Could Compound Into Real Retire",
+        "• Is Realty Income's Monthly Dividend Streak Truly Unbreakable - Kavout "
       ]
     }
   ]
