@@ -1,5 +1,5 @@
 {
-  "data": "2026-07-27T10:33:37.841787",
+  "data": "2026-07-28T09:31:36.241472",
   "empresas": [
     {
       "ticker": "MSFT",
@@ -8,7 +8,7 @@
       "status": "verde",
       "sinais": [
         "• Microsoft Stock Is Near a 1-Year Low. That Could Change on July 29. - ",
-        "• Top Four Magnificent 7 Stocks to Watch This Week: Apple, Microsoft, Me",
+        "• Why Microsoft, Meta, and Amazon earnings could crush the S&P 500 - Yah",
         "• Going Into Earnings, Is Microsoft Stock a Buy, a Sell, or Fairly Value"
       ]
     },
@@ -19,19 +19,19 @@
       "status": "verde",
       "sinais": [
         "• Going Into Earnings, Is Amazon Stock a Buy, a Sell, or Fairly Valued? ",
-        "• Amazon Stock Just Hit a Major Hurdle Ahead of Earnings - Barchart.com",
-        "• Should You Buy Amazon Stock Before July 30? - Yahoo Finance"
+        "• Amazon Stock Just Hit a Major Hurdle Ahead of Earnings - Yahoo Finance",
+        "• Amazon's Leo Starlink Challenger Plans For More Satellites, Mobile Con"
       ]
     },
     {
       "ticker": "NVDA",
       "nome": "NVIDIA",
       "tese": "Vendo a única pá das minas de IA",
-      "status": "amarelo",
+      "status": "vermelho",
       "sinais": [
-        "• Nvidia stock is doing something it hasn’t done in years - thestreet.co",
-        "• Nvidia Stock Has Been a Chip Stock Outperformer in July. Why Its Rally",
-        "• Stocks to Watch: CXMT, LVMH, Nvidia, Chevron - WSJ"
+        "• Nvidia Stock Slumps After Data-Center Report - WSJ",
+        "• Nvidia drops nearly 5%, leading chip stocks lower amid renewed worries",
+        "🔴 Asian chip stocks slide as China competition fears rattle AI trade - R"
       ]
     },
     {
@@ -41,8 +41,8 @@
       "status": "amarelo",
       "sinais": [
         "• Daiichi Sankyo Company, Limited (DSNKY) Stock Price, News, Quote & His",
-        "• Daiichi Sankyo shares slip after delaying annual earnings report - Bio",
-        "• Daiichi pushes back annual report, citing reviews amid ‘rapidly changi"
+        "• Toyota Stock, SoftBank And Daiichi Sankyo Offer Reliable Japan Dividen",
+        "• Daiichi Sankyo shares slip after delaying annual earnings report - Bio"
       ]
     },
     {
@@ -52,8 +52,8 @@
       "status": "verde",
       "sinais": [
         "• Novo Nordisk Stock Up Over 2% Premarket Today — Thanks To OpenAI Tie-U",
-        "• Novo Nordisk: Initiating Buy, Calling The Bottom (NYSE:NVO) - Seeking ",
-        "• Bessemer Group Inc. Lowers Position in Novo Nordisk A/S $NVO - MarketB"
+        "• Novo Nordisk (CPSE:NOVO B) Stock Fair Value Edges Higher As Analysts R",
+        "• 3 Reasons to Buy Novo Nordisk Stock - The Motley Fool"
       ]
     },
     {
@@ -74,8 +74,8 @@
       "status": "verde",
       "sinais": [
         "• How a $25,000 Realty Income Investment Could Compound Into Real Retire",
-        "• Is Realty Income's Monthly Dividend Streak Truly Unbreakable - Kavout ",
-        "• Realty Income (O) Stock Trades At A Premium On Earnings While 3 Year R"
+        "• Forget Realty Income: 4 Other REITs Built for Dividend Investors - AOL",
+        "• 5 Boomer-Proof Monthly Dividend Stocks That Pay You While You Sleep - "
       ]
     }
   ]
