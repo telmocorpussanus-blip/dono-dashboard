@@ -1,5 +1,5 @@
 {
-  "data": "2026-07-28T09:31:36.241472",
+  "data": "2026-07-29T09:32:54.182674",
   "empresas": [
     {
       "ticker": "MSFT",
@@ -7,9 +7,9 @@
       "tese": "Alugo o escritório digital ao mundo",
       "status": "verde",
       "sinais": [
-        "• Microsoft Stock Is Near a 1-Year Low. That Could Change on July 29. - ",
-        "• Why Microsoft, Meta, and Amazon earnings could crush the S&P 500 - Yah",
-        "• Going Into Earnings, Is Microsoft Stock a Buy, a Sell, or Fairly Value"
+        "• Here’s How Much Microsoft Stock Is Expected to Move After Earnings Wed",
+        "• Amazon, Meta and Microsoft face skeptical investors this week after Go",
+        "• Earnings Showdown: Is Microsoft or Meta More at Risk When July 29 Earn"
       ]
     },
     {
@@ -18,20 +18,20 @@
       "tese": "Cobro portagem e alugo a internet",
       "status": "verde",
       "sinais": [
+        "• Amazon, Meta and Microsoft face skeptical investors this week after Go",
         "• Going Into Earnings, Is Amazon Stock a Buy, a Sell, or Fairly Valued? ",
-        "• Amazon Stock Just Hit a Major Hurdle Ahead of Earnings - Yahoo Finance",
-        "• Amazon's Leo Starlink Challenger Plans For More Satellites, Mobile Con"
+        "• Here’s How Much Amazon Stock Is Expected to Move After Earnings - Inve"
       ]
     },
     {
       "ticker": "NVDA",
       "nome": "NVIDIA",
       "tese": "Vendo a única pá das minas de IA",
-      "status": "vermelho",
+      "status": "amarelo",
       "sinais": [
-        "• Nvidia Stock Slumps After Data-Center Report - WSJ",
-        "• Nvidia drops nearly 5%, leading chip stocks lower amid renewed worries",
-        "🔴 Asian chip stocks slide as China competition fears rattle AI trade - R"
+        "• Nvidia Stock Hasn’t Been This Cheap Since 2015—and It Just Keeps Getti",
+        "• AMD, Intel and Micron extend losses as chip stocks get clobbered - CNB",
+        "• Corning (GLW) Stock Falls After Amazon And Nvidia Fiber Deals And Q2 B"
       ]
     },
     {
@@ -51,9 +51,9 @@
       "tese": "Tiro a fome com hormona",
       "status": "verde",
       "sinais": [
-        "• Novo Nordisk Stock Up Over 2% Premarket Today — Thanks To OpenAI Tie-U",
-        "• Novo Nordisk (CPSE:NOVO B) Stock Fair Value Edges Higher As Analysts R",
-        "• 3 Reasons to Buy Novo Nordisk Stock - The Motley Fool"
+        "• Novo Nordisk (NYSE:NVO) Stock Looks Undervalued On Cash Flow And Earni",
+        "• Where Will Novo Nordisk Stock Be in 3 Years? - Yahoo Finance",
+        "• Novo Nordisk Remains A Generational Buying Opportunity Ahead Of Q2 Ear"
       ]
     },
     {
@@ -62,9 +62,9 @@
       "tese": "Empresto a jovens",
       "status": "verde",
       "sinais": [
-        "• Sallie Mae Declares Dividends on Preferred Stock Series B and Common S",
-        "• Press Release: Sallie Mae Declares Dividends on Preferred Stock Series",
-        "• Sallie Mae (NASDAQ:SLM) Misses Q2 CY2026 Sales Expectations - StockSto"
+        "• Sallie Mae Stock Tumbles 7.6% on Elevated Charge-Off Concerns - Yahoo ",
+        "• Sallie Mae (NASDAQ:SLM) Misses Q2 CY2026 Sales Expectations - StockSto",
+        "• Press Release: Sallie Mae Declares Dividends on Preferred Stock Series"
       ]
     },
     {
@@ -74,8 +74,8 @@
       "status": "verde",
       "sinais": [
         "• How a $25,000 Realty Income Investment Could Compound Into Real Retire",
-        "• Forget Realty Income: 4 Other REITs Built for Dividend Investors - AOL",
-        "• 5 Boomer-Proof Monthly Dividend Stocks That Pay You While You Sleep - "
+        "• Universal Health Realty Income Trust (UHT) Stock Rises As Yield Appeal",
+        "• Realty Income Announces 673rd Consecutive Common Stock Monthly Dividen"
       ]
     }
   ]
