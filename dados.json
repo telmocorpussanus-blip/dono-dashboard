@@ -1,5 +1,5 @@
 {
-  "data": "2026-07-30T09:25:30.368523",
+  "data": "2026-07-31T09:37:02.811307",
   "empresas": [
     {
       "ticker": "MSFT",
@@ -7,8 +7,8 @@
       "tese": "Alugo o escritório digital ao mundo",
       "status": "verde",
       "sinais": [
-        "• Microsoft earnings impress Wall Street. Here's why the stock is soarin",
-        "• Tech Earnings Today: Microsoft Beats Expectations, While Meta’s Profit",
+        "✓ Microsoft stock surges on earnings: A closer look at Copilot, Azure, a",
+        "• Goldman Says Microsoft Shows Wall Street How AI Bet Pays Off - Bloombe",
         "• Microsoft: What We Think of the Stock After Earnings - Morningstar"
       ]
     },
@@ -16,11 +16,11 @@
       "ticker": "AMZN",
       "nome": "Amazon",
       "tese": "Cobro portagem e alugo a internet",
-      "status": "verde",
+      "status": "vermelho",
       "sinais": [
-        "• Here’s How Much Amazon Stock Is Expected to Move After Earnings - Inve",
-        "• Amazon Stock Is Under the Microscope Ahead of Earnings; Here’s What Wa",
-        "• Amazon, Meta and Microsoft face skeptical investors this week after Go"
+        "• Nasdaq futures rise as Wall Street rebounds; South Korea's Kospi soars",
+        "🔴 Amazon hikes 2026 capex to $220 billion due to higher memory costs - C",
+        "• Apple and Amazon report rising revenues as investors turn on some tech"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tese": "Vendo a única pá das minas de IA",
       "status": "amarelo",
       "sinais": [
-        "• Nvidia: Stop Worrying About Circular Financing and Embrace the Bank - ",
-        "• Nvidia, Micron, AMD sink after SK Hynix results fail to impress, AI tr",
-        "• Here are Wednesday's biggest analyst calls: Nvidia, SpaceX, AMD, Snowf"
+        "• Nvidia Stock Hasn’t Been This Cheap Since 2015—and It Just Keeps Getti",
+        "• Zacks.com featured highlights include Micron, NVIDIA and TD SYNNEX - T",
+        "• The Zacks Analyst Blog Highlights Arm Holdings, NVIDIA and Qualcomm - "
       ]
     },
     {
@@ -51,8 +51,8 @@
       "tese": "Tiro a fome com hormona",
       "status": "verde",
       "sinais": [
-        "• Why shareholders are suing Novo Nordisk over next-generation weight-lo",
-        "• Where Will Novo Nordisk Stock Be in 3 Years? - Yahoo Finance",
+        "• Where Will Novo Nordisk Stock Be in 3 Years? - The Motley Fool",
+        "• Novo Nordisk (CPSE:NOVO B) Stock Fair Value Edges Higher As Analysts R",
         "• Novo Nordisk Remains A Generational Buying Opportunity Ahead Of Q2 Ear"
       ]
     },
@@ -63,8 +63,8 @@
       "status": "verde",
       "sinais": [
         "• Sallie Mae Stock Tumbles 7.6% on Elevated Charge-Off Concerns - Yahoo ",
-        "• Sallie Mae (NASDAQ:SLM) Misses Q2 CY2026 Sales Expectations - StockSto",
-        "• Press Release: Sallie Mae Declares Dividends on Preferred Stock Series"
+        "• Press Release: Sallie Mae Declares Dividends on Preferred Stock Series",
+        "• Sallie Mae (NASDAQ:SLM) Misses Q2 CY2026 Sales Expectations - StockSto"
       ]
     },
     {
@@ -73,9 +73,9 @@
       "tese": "Compro lojas, distribuo renda",
       "status": "verde",
       "sinais": [
-        "• How a $25,000 Realty Income Investment Could Compound Into Real Retire",
-        "• This US Dividend Aristocrat Offers a 5% Yield and Looks 10% Undervalue",
-        "• Can Realty Income’s (O) Premium and Dividend Story Endure Rising Costs"
+        "• Realty Income Corp. (O) Stock Declines While Market Improves: Some Inf",
+        "• Should You Buy Realty Income Stock Before Aug. 5? - The Motley Fool",
+        "• This US Dividend Aristocrat Offers a 5% Yield and Looks 10% Undervalue"
       ]
     }
   ]
