@@ -1,5 +1,5 @@
 {
-  "data": "2026-08-01T09:00:34.949986",
+  "data": "2026-08-02T09:05:03.042853",
   "empresas": [
     {
       "ticker": "MSFT",
@@ -7,20 +7,20 @@
       "tese": "Alugo o escritório digital ao mundo",
       "status": "verde",
       "sinais": [
-        "• Microsoft's stock rockets more than 15% for largest single-day jump in",
-        "• Meta, Microsoft, and the AI Capex Divide - barrons.com",
-        "• Amazon vs. Microsoft vs. Alphabet: Which Is the Best Cloud Stock to Bu"
+        "• Goldman Says Microsoft Shows Wall Street How AI Bet Pays Off - Bloombe",
+        "• Meta, Microsoft, and the AI Capex Divide - Barron's",
+        "• 678bn reasons to buy Microsoft shares? - Yahoo Finance UK"
       ]
     },
     {
       "ticker": "AMZN",
       "nome": "Amazon",
       "tese": "Cobro portagem e alugo a internet",
-      "status": "vermelho",
+      "status": "verde",
       "sinais": [
-        "🔴 Amazon hikes 2026 capex to $220 billion due to higher memory costs - C",
+        "✓ Amazon stock soars as e-commerce giant's AWS cloud business booms in '",
         "• Alphabet, Amazon and Microsoft added nearly $1.5 trillion in combined ",
-        "• Stocks Rise on Big Amazon Earnings Beat: Stock Market Today - Kiplinge"
+        "• Amazon Stock Analysis: Buy or Sell? - The Motley Fool"
       ]
     },
     {
@@ -30,8 +30,8 @@
       "status": "amarelo",
       "sinais": [
         "• Nvidia Is Back on Top as Most Valuable Company After Apple Stumbles - ",
-        "• Nvidia Stock Slumps After Data-Center Report - WSJ",
-        "• Here are Friday's biggest analyst calls: Nvidia, SpaceX, Apple, Amazon"
+        "• Nvidia Stock Slumps After Data-Center Report - wsj.com",
+        "• Is Bloom Energy in Its Nvidia Moment? - Yahoo Finance"
       ]
     },
     {
@@ -41,7 +41,7 @@
       "status": "amarelo",
       "sinais": [
         "• Daiichi Sankyo flags accounting error, as shares tank despite revenue ",
-        "• Daiichi Life Group Number of Employees 2026 | Employee Count & Headcou",
+        "• Daiichi Sankyo (TSE:4568) Stock Revenue Surges While Margins Stay Unde",
         "• Assessing Daiichi Sankyo Company (TSE:4568) Valuation After Recent Sha"
       ]
     },
@@ -64,7 +64,7 @@
       "sinais": [
         "• Sallie Mae Stock Tumbles 7.6% on Elevated Charge-Off Concerns - Yahoo ",
         "• Press Release: Sallie Mae Declares Dividends on Preferred Stock Series",
-        "• Sallie Mae (NASDAQ:SLM) Misses Q2 CY2026 Sales Expectations - StockSto"
+        "• 5 Must-Read Analyst Questions From Sallie Mae’s Q2 Earnings Call - Sto"
       ]
     },
     {
@@ -73,9 +73,9 @@
       "tese": "Compro lojas, distribuo renda",
       "status": "verde",
       "sinais": [
+        "• Should You Buy Realty Income Stock Before Aug. 5? - Yahoo Finance",
         "• This US Dividend Aristocrat Offers a 5% Yield and Looks 10% Undervalue",
-        "• Realty Income Corp's Dividend Analysis - Yahoo Finance",
-        "• Realty Income Reports Earnings Aug. 5. Here's How Much $15,000 Investe"
+        "• Realty Income (O) Declares Its Monthly Dividend As Undervalued Narrati"
       ]
     }
   ]
