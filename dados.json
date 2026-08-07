@@ -1,5 +1,5 @@
 {
-  "data": "2026-08-06T09:34:43.771747",
+  "data": "2026-08-07T08:07:46.556173",
   "empresas": [
     {
       "ticker": "MSFT",
@@ -7,9 +7,9 @@
       "tese": "Alugo o escritório digital ao mundo",
       "status": "verde",
       "sinais": [
-        "• Why Microsoft Stock Surged 24.6% in July While the Market Was Flat - Y",
-        "• Never Mind AI Spending, This Number Is Boosting Microsoft, Google, and",
-        "• Microsoft CEO Satya Nadella Just Announced Great News for AMD Stock In"
+        "• Microsoft Stock (NASDAQ:MSFT) Gains as Microsoft Grapples With OpenCla",
+        "• Microsoft is starting to show its payoff on major AI plays - Yahoo Fin",
+        "• Microsoft AI exec tells developers to default to OpenAI's top model as"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tese": "Cobro portagem e alugo a internet",
       "status": "verde",
       "sinais": [
-        "• Jeff Bezos files to sell $4 billion in Amazon stock - The Seattle Time",
-        "• Amazon Stock Falls After Rally As Bezos Plans $4 Billion Share Sale - ",
-        "• Andy Jassy Just Delivered Incredible News for Amazon Stock Investors -"
+        "• Jeff Bezos Files to Sell $4B in Amazon Shares After Report the ‘Wiped’",
+        "• Greg Abel Just Sold 2.3 Million Shares of Amazon Stock. Here's Why Tha",
+        "• Amazon tops $3 trillion market cap as stock continues post-earnings su"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tese": "Vendo a única pá das minas de IA",
       "status": "amarelo",
       "sinais": [
-        "• Why Nvidia Stock Is the Big Winner From SpaceX Earnings - Barron's",
+        "• Nvidia stock rises, as Musk says SpaceX will exclusively use company's",
         "• Nvidia Stock: This Onetime Market Darling Is Now Surprisingly Underval",
-        "• Nvidia Stock Is A Steal Ahead Of Q2 Earnings (NASDAQ:NVDA) - Seeking A"
+        "• Stocks Fall On Spiking Oil Prices, Tumbling AI Plays Sandisk, Western "
       ]
     },
     {
@@ -49,11 +49,11 @@
       "ticker": "NVO",
       "nome": "Novo Nordisk",
       "tese": "Tiro a fome com hormona",
-      "status": "verde",
+      "status": "vermelho",
       "sinais": [
         "✓ Novo Nordisk CEO defends economics of Wegovy pill as lower prices weig",
-        "• Novo Nordisk: Trial Failure Disappointing, but Insignificant Portion o",
-        "• Novo Nordisk Stock (NVO) Recovers as Earnings Surprise to the Upside -"
+        "🔴 The divide between Eli Lilly and Novo Nordisk is widening after their ",
+        "• Novo Nordisk: What We Think of the Stock After Earnings - Morningstar"
       ]
     },
     {
@@ -73,9 +73,9 @@
       "tese": "Compro lojas, distribuo renda",
       "status": "verde",
       "sinais": [
-        "• This Is the Only Reason I'd Need to Buy Realty Income in August Withou",
-        "• Realty Income Corp. (O) Q2 FFO Meet Estimates - Yahoo Finance",
-        "• Realty Income Q2 revenue beats amid stable occupancy, lower costs, sam"
+        "✓ Realty Income Raised Its 2026 AFFO Guidance. Here's What That Means fo",
+        "• Realty Income Announces Operating Results for the Three and Six Months",
+        "✓ Realty Income Raised Its 2026 AFFO Guidance. Here's What That Means fo"
       ]
     }
   ]
