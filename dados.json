@@ -1,5 +1,5 @@
 {
-  "data": "2026-08-07T08:07:46.556173",
+  "data": "2026-08-08T07:41:14.933346",
   "empresas": [
     {
       "ticker": "MSFT",
@@ -7,9 +7,9 @@
       "tese": "Alugo o escritório digital ao mundo",
       "status": "verde",
       "sinais": [
-        "• Microsoft Stock (NASDAQ:MSFT) Gains as Microsoft Grapples With OpenCla",
-        "• Microsoft is starting to show its payoff on major AI plays - Yahoo Fin",
-        "• Microsoft AI exec tells developers to default to OpenAI's top model as"
+        "• After Earnings, Is Microsoft Stock a Buy, a Sell, or Fairly Valued? - ",
+        "• The Core Bull Thesis Around Microsoft Remains Very Strong at $500 - 24",
+        "• Microsoft: No Dead Cat Bounce Here (Q4 Review) (NASDAQ:MSFT) - Seeking"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tese": "Cobro portagem e alugo a internet",
       "status": "verde",
       "sinais": [
-        "• Jeff Bezos Files to Sell $4B in Amazon Shares After Report the ‘Wiped’",
-        "• Greg Abel Just Sold 2.3 Million Shares of Amazon Stock. Here's Why Tha",
-        "• Amazon tops $3 trillion market cap as stock continues post-earnings su"
+        "• Bezos Plans to Sell $4B Amazon Stock: Why Investors Should Sit Tight -",
+        "• After Earnings, Is Amazon Stock a Buy, a Sell, or Fairly Valued? - Mor",
+        "• Jeff Bezos sells $4 billion in Amazon stock - bizjournals.com"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tese": "Vendo a única pá das minas de IA",
       "status": "amarelo",
       "sinais": [
-        "• Nvidia stock rises, as Musk says SpaceX will exclusively use company's",
         "• Nvidia Stock: This Onetime Market Darling Is Now Surprisingly Underval",
-        "• Stocks Fall On Spiking Oil Prices, Tumbling AI Plays Sandisk, Western "
+        "• Nvidia stock rises after Musk says SpaceX will exclusively use company",
+        "• Why Did Nvidia Stock Jump After AMD Bought an AI Chip Startup? - Stock"
       ]
     },
     {
@@ -40,20 +40,20 @@
       "tese": "Faço mísseis contra cancro",
       "status": "amarelo",
       "sinais": [
-        "• Daiichi Sankyo flags accounting error, as shares tank despite revenue ",
+        "• Fierce Pharma Asia—Takeda’s historic narcolepsy nod; Daiichi’s account",
         "• Toyota Stock, SoftBank And Daiichi Sankyo For Dividend Income Watchlis",
-        "• Daiichi Sankyo (TSE:4568) Stock Revenue Surges While Margins Stay Unde"
+        "• Assessing Daiichi Sankyo Company (TSE:4568) Valuation After Recent Sha"
       ]
     },
     {
       "ticker": "NVO",
       "nome": "Novo Nordisk",
       "tese": "Tiro a fome com hormona",
-      "status": "vermelho",
+      "status": "verde",
       "sinais": [
-        "✓ Novo Nordisk CEO defends economics of Wegovy pill as lower prices weig",
-        "🔴 The divide between Eli Lilly and Novo Nordisk is widening after their ",
-        "• Novo Nordisk: What We Think of the Stock After Earnings - Morningstar"
+        "• Novo Nordisk Is Exiting a ‘Rough Patch,’ CFO Says. Earnings Prove It. ",
+        "• Novo Nordisk Stock Rises After GLP-1 Antitrust Win - Yahoo Finance",
+        "✓ Novo Nordisk Stock Drops on Wegovy Shortfall - WSJ"
       ]
     },
     {
@@ -63,8 +63,8 @@
       "status": "verde",
       "sinais": [
         "• Sallie Mae Stock Tumbles 7.6% on Elevated Charge-Off Concerns - Yahoo ",
-        "• Press Release: Sallie Mae Declares Dividends on Preferred Stock Series",
-        "• Sallie Mae stock dips on fresh concerns over charge-offs, impact on re"
+        "• Sallie Mae posts Q2 2026 investor presentation showing $716M originati",
+        "• Press Release: Sallie Mae Declares Dividends on Preferred Stock Series"
       ]
     },
     {
@@ -73,9 +73,9 @@
       "tese": "Compro lojas, distribuo renda",
       "status": "verde",
       "sinais": [
+        "• Realty Income Corp. (O) Q2 FFO Meet Estimates - Yahoo Finance",
         "✓ Realty Income Raised Its 2026 AFFO Guidance. Here's What That Means fo",
-        "• Realty Income Announces Operating Results for the Three and Six Months",
-        "✓ Realty Income Raised Its 2026 AFFO Guidance. Here's What That Means fo"
+        "• Realty Income Q2 revenue beats amid stable occupancy, lower costs, sam"
       ]
     }
   ]
