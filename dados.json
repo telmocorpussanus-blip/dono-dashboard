@@ -1,5 +1,5 @@
 {
-  "data": "2026-08-11T08:04:56.034611",
+  "data": "2026-08-12T08:09:38.007089",
   "empresas": [
     {
       "ticker": "MSFT",
@@ -7,9 +7,9 @@
       "tese": "Alugo o escritório digital ao mundo",
       "status": "verde",
       "sinais": [
-        "• Microsoft Stock (MSFT) Rises on a Next-Gen AI Chip Production Report -",
+        "• After Earnings, Is Microsoft Stock a Buy, a Sell, or Fairly Valued? - ",
         "• Microsoft Stock Rises 1.7% as JPMorgan Backs AI Payoff - Yahoo Finance",
-        "• 5-Star Analyst Revamps Microsoft Stock Price Target for 2027 - GuruFoc"
+        "• Microsoft’s stock is charging back. Here’s the case for it to rally an"
       ]
     },
     {
@@ -18,8 +18,8 @@
       "tese": "Cobro portagem e alugo a internet",
       "status": "verde",
       "sinais": [
-        "• Amazon Stock Hits a New All-Time High: Is It Still a Buy? - Yahoo Fina",
-        "• Amazon Stock And The Profit Signal Everyone Is Chasing - Trefis",
+        "• Amazon Stock And The Profit Signal Everyone Is Chasing - trefis.com",
+        "• After Earnings, Is Amazon Stock a Buy, a Sell, or Fairly Valued? - Mor",
         "• Amazon, IBD Stock Of The Day, Rides Cloud Momentum To $3 Trillion Mile"
       ]
     },
@@ -29,9 +29,9 @@
       "tese": "Vendo a única pá das minas de IA",
       "status": "amarelo",
       "sinais": [
-        "• Here’s Why Nvidia Stock Is Down Today - Forbes",
-        "• Nvidia Stock Slips as Its AI Investments Draw Fresh Scrutiny - Barron'",
-        "• Stock market today: Dow, S&P 500, Nasdaq slip as oil prices climb, Nvi"
+        "• Nvidia Confirms $500 Bil AI Funding Deal. These Stocks Jump. - Investo",
+        "• Here are Tuesday's biggest analyst calls: SpaceX, Nvidia, Tesla, Apple",
+        "• NVIDIA’s Falling Multiple Is A Bill, Not A Bargain - trefis.com"
       ]
     },
     {
@@ -41,19 +41,19 @@
       "status": "amarelo",
       "sinais": [
         "• Daiichi Sankyo Company, Limited (DSNKY) stock price, news, quote and h",
-        "• M&A Roundup: Novo Nordisk Enters AI Drug Discovery Partnership with Am",
-        "• Earnings Troubles May Signal Larger Issues for Daiichi Sankyo Company "
+        "• Daiichi Sankyo flags accounting error, as shares tank despite revenue ",
+        "• M&A Roundup: Novo Nordisk Enters AI Drug Discovery Partnership with Am"
       ]
     },
     {
       "ticker": "NVO",
       "nome": "Novo Nordisk",
       "tese": "Tiro a fome com hormona",
-      "status": "verde",
+      "status": "vermelho",
       "sinais": [
-        "• Novo Nordisk Stock Rises After GLP-1 Antitrust Win - Yahoo Finance",
-        "• Is new time to buy weakness in Novo Nordisk stock? Bernstein answers -",
-        "✓ Novo Nordisk Stock Drops on Wegovy Shortfall - wsj.com"
+        "• Novo Nordisk: What We Think of the Stock After Earnings - Morningstar",
+        "🔴 Better Buy: Eli Lilly vs. Novo Nordisk - The Motley Fool",
+        "• Novo Nordisk shares slide after guidance disappoints investors - cnbc."
       ]
     },
     {
@@ -73,9 +73,9 @@
       "tese": "Compro lojas, distribuo renda",
       "status": "verde",
       "sinais": [
-        "• Sen. Gary C. Peters Buys Realty Income Corporation (NYSE:O) Shares - M",
-        "• Three dividend stocks to lock in $1,500 per year in passive income - T",
-        "• How a $25,000 Realty Income Investment Could Compound Into Real Retire"
+        "• Realty Income Prices Upsized $875.0 Million Convertible Senior Notes O",
+        "• All It Takes Is $10,000 in Each of These 3 Dividend Stocks for $1,700+",
+        "• Realty Income Announces Convertible Notes Offering to Strengthen Capit"
       ]
     }
   ]
