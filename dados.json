@@ -1,5 +1,5 @@
 {
-  "data": "2026-08-12T08:09:38.007089",
+  "data": "2026-08-13T08:12:33.174177",
   "empresas": [
     {
       "ticker": "MSFT",
@@ -7,9 +7,9 @@
       "tese": "Alugo o escritório digital ao mundo",
       "status": "verde",
       "sinais": [
-        "• After Earnings, Is Microsoft Stock a Buy, a Sell, or Fairly Valued? - ",
-        "• Microsoft Stock Rises 1.7% as JPMorgan Backs AI Payoff - Yahoo Finance",
-        "• Microsoft’s stock is charging back. Here’s the case for it to rally an"
+        "• Palantir and Microsoft Drop. Why the AI Revival Is Hitting Software St",
+        "• Microsoft Stock Drops While Maia Chip Ambitions Expand - Yahoo Finance",
+        "• After Earnings, Is Microsoft Stock a Buy, a Sell, or Fairly Valued? - "
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tese": "Cobro portagem e alugo a internet",
       "status": "verde",
       "sinais": [
-        "• Amazon Stock And The Profit Signal Everyone Is Chasing - trefis.com",
+        "• Amazon shares appear stuck in a rut. Trader Mike Khouw is betting thin",
         "• After Earnings, Is Amazon Stock a Buy, a Sell, or Fairly Valued? - Mor",
-        "• Amazon, IBD Stock Of The Day, Rides Cloud Momentum To $3 Trillion Mile"
+        "• Amazon Stock's Next Leg Is Already On The Order Book - Yahoo Finance"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tese": "Vendo a única pá das minas de IA",
       "status": "amarelo",
       "sinais": [
-        "• Nvidia Confirms $500 Bil AI Funding Deal. These Stocks Jump. - Investo",
-        "• Here are Tuesday's biggest analyst calls: SpaceX, Nvidia, Tesla, Apple",
-        "• NVIDIA’s Falling Multiple Is A Bill, Not A Bargain - trefis.com"
+        "• Supermicro Soars On Report. Why Nvidia Is Also Rallying. - Investor's ",
+        "• Nvidia Stock Slumps After Data-Center Report - WSJ",
+        "• Alphabet’s stock slips as Nvidia’s $500 billion financing deal threate"
       ]
     },
     {
@@ -41,7 +41,7 @@
       "status": "amarelo",
       "sinais": [
         "• Daiichi Sankyo Company, Limited (DSNKY) stock price, news, quote and h",
-        "• Daiichi Sankyo flags accounting error, as shares tank despite revenue ",
+        "• Daiichi Life Insurance Co., Ltd. - Portfolio Stock Holdings - Quiver Q",
         "• M&A Roundup: Novo Nordisk Enters AI Drug Discovery Partnership with Am"
       ]
     },
@@ -49,11 +49,11 @@
       "ticker": "NVO",
       "nome": "Novo Nordisk",
       "tese": "Tiro a fome com hormona",
-      "status": "vermelho",
+      "status": "verde",
       "sinais": [
+        "• Novo Nordisk (NVO) Stock Still Looks Cheap On Earnings But Faces Growt",
         "• Novo Nordisk: What We Think of the Stock After Earnings - Morningstar",
-        "🔴 Better Buy: Eli Lilly vs. Novo Nordisk - The Motley Fool",
-        "• Novo Nordisk shares slide after guidance disappoints investors - cnbc."
+        "• Altrafin AG Sells 34,450 Shares of Novo Nordisk A/S $NVO - MarketBeat"
       ]
     },
     {
@@ -63,7 +63,7 @@
       "status": "verde",
       "sinais": [
         "• Sallie Mae Stock Tumbles 7.6% on Elevated Charge-Off Concerns - Yahoo ",
-        "• Sallie Mae Reports Second Quarter 2026 Financial Results - Business Wi",
+        "• 91% of Families See College as a Valuable Investment, Study Finds - St",
         "• Sallie Mae stock dips on fresh concerns over charge-offs, impact on re"
       ]
     },
@@ -73,9 +73,9 @@
       "tese": "Compro lojas, distribuo renda",
       "status": "verde",
       "sinais": [
-        "• Realty Income Prices Upsized $875.0 Million Convertible Senior Notes O",
-        "• All It Takes Is $10,000 in Each of These 3 Dividend Stocks for $1,700+",
-        "• Realty Income Announces Convertible Notes Offering to Strengthen Capit"
+        "• Is Realty Income Stock Worth Holding After Its Q2 Earnings Results? - ",
+        "• Realty Income Stock And Other Rate Sensitive Dividend Picks To Watch -",
+        "• Realty Income Prices Upsized $875.0 Million Convertible Senior Notes O"
       ]
     }
   ]
