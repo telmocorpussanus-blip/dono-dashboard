@@ -1,5 +1,5 @@
 {
-  "data": "2026-08-15T07:22:35.214329",
+  "data": "2026-08-16T07:23:52.191775",
   "empresas": [
     {
       "ticker": "MSFT",
@@ -7,9 +7,9 @@
       "tese": "Alugo o escritório digital ao mundo",
       "status": "verde",
       "sinais": [
-        "• Palantir and Microsoft Drop. Why the AI Revival Is Hitting Software St",
         "• Why this analyst sees another 30% rip in Microsoft stock - Yahoo Finan",
-        "• I've Been Wrong About Microsoft Stock for Years. Here's Why I'm Finall"
+        "• Berkshire Bought Alphabet Stock in Q2—and Maybe Microsoft Too - barron",
+        "• Microsoft Walks Away From China - 24/7 Wall St."
       ]
     },
     {
@@ -19,8 +19,8 @@
       "status": "verde",
       "sinais": [
         "✓ Amazon Stock Gains as Ackman Backs Accelerating AWS Growth - Yahoo Fin",
-        "• Amazon shares appear stuck in a rut. Trader Mike Khouw is betting thin",
-        "• Why Amazon Stock Is Down Today - TradingView"
+        "• Jeff Bezos Is Selling $4 Billion of His Amazon Stock. Should You Follo",
+        "• Amazon Stock: Cloud Power Surges as AI Risks Mount - TipRanks"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tese": "Vendo a única pá das minas de IA",
       "status": "amarelo",
       "sinais": [
-        "• Nvidia Stock Rises as It Bets on Robots - Barron's",
-        "• Not Micron, Not Sandisk. This Artificial Intelligence (AI) Memory Stoc",
-        "• Nvidia discloses $21 billion stake in SpaceX at end of second quarter "
+        "• Nvidia Stock Rises as It Bets on Robots - barrons.com",
+        "• Nvidia Stock Slumps After Data-Center Report - WSJ",
+        "• Prediction: Nvidia Stock Will Fall After Aug. 26. Here Are 2 Reasons W"
       ]
     },
     {
@@ -40,20 +40,20 @@
       "tese": "Faço mísseis contra cancro",
       "status": "amarelo",
       "sinais": [
-        "• Daiichi Sankyo Company (TSE:4568) Could Be 34% Undervalued Following T",
+        "• Daiichi Sankyo Company Profile & Introduction - Moomoo",
         "• Daiichi Sankyo flags accounting error, as shares tank despite revenue ",
-        "• Daiichi Life Insurance Co., Ltd. - Portfolio Stock Holdings - quiverqu"
+        "• Daiichi Sankyo Company (TSE:4568) Could Be 34% Undervalued Following T"
       ]
     },
     {
       "ticker": "NVO",
       "nome": "Novo Nordisk",
       "tese": "Tiro a fome com hormona",
-      "status": "vermelho",
+      "status": "verde",
       "sinais": [
+        "• Novo Nordisk Shares Are 70% Off Their Peak. Is the Stock Fairly Valued",
         "• Novo Nordisk Stock Slips as Pill Strategy Reframes Obesity Race - Yaho",
-        "• The Market Is (Still) Underestimating Novo Nordisk (NYSE:NVO) - Seekin",
-        "🔴 Novo Nordisk Stock (NVO) Falls as CEO Weighs In on Obesity Drug Rivalr"
+        "• Novo Nordisk shares slide after guidance disappoints investors - CNBC"
       ]
     },
     {
@@ -75,7 +75,7 @@
       "sinais": [
         "• Realty Income (O) Stock Looks Fully Priced Despite Strong Returns And ",
         "• Realty Income Announces Closing of $1.0 Billion Convertible Senior Not",
-        "• Realty Income Corporation $O Stock Holdings Lifted by Aberdeen Group p"
+        "• Realty Income (O) Stock Looks Reasonable On Returns But Rich On Earnin"
       ]
     }
   ]
