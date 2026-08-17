@@ -1,5 +1,5 @@
 {
-  "data": "2026-08-16T07:23:52.191775",
+  "data": "2026-08-17T07:44:16.869283",
   "empresas": [
     {
       "ticker": "MSFT",
@@ -7,8 +7,8 @@
       "tese": "Alugo o escritório digital ao mundo",
       "status": "verde",
       "sinais": [
-        "• Why this analyst sees another 30% rip in Microsoft stock - Yahoo Finan",
-        "• Berkshire Bought Alphabet Stock in Q2—and Maybe Microsoft Too - barron",
+        "• Tech workers may be better off selling their company stock - Business ",
+        "• JPMorgan set a serious Microsoft stock price target for 2027 - Yahoo F",
         "• Microsoft Walks Away From China - 24/7 Wall St."
       ]
     },
@@ -18,9 +18,9 @@
       "tese": "Cobro portagem e alugo a internet",
       "status": "verde",
       "sinais": [
-        "✓ Amazon Stock Gains as Ackman Backs Accelerating AWS Growth - Yahoo Fin",
-        "• Jeff Bezos Is Selling $4 Billion of His Amazon Stock. Should You Follo",
-        "• Amazon Stock: Cloud Power Surges as AI Risks Mount - TipRanks"
+        "• After Earnings, Is Amazon Stock a Buy, a Sell, or Fairly Valued? - Mor",
+        "• Amazon shares appear stuck in a rut. Trader Mike Khouw is betting thin",
+        "✓ Amazon (AMZN) Stock Gets Fair Value Bump As AWS AI Demand Lifts Analys"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tese": "Vendo a única pá das minas de IA",
       "status": "amarelo",
       "sinais": [
-        "• Nvidia Stock Rises as It Bets on Robots - barrons.com",
+        "• Nvidia Stock Rises as It Bets on Robots - Barron's",
         "• Nvidia Stock Slumps After Data-Center Report - WSJ",
-        "• Prediction: Nvidia Stock Will Fall After Aug. 26. Here Are 2 Reasons W"
+        "• Jensen Huang Doubled Nvidia's Own Sales Forecast to $1 Trillion Throug"
       ]
     },
     {
@@ -40,9 +40,9 @@
       "tese": "Faço mísseis contra cancro",
       "status": "amarelo",
       "sinais": [
-        "• Daiichi Sankyo Company Profile & Introduction - Moomoo",
         "• Daiichi Sankyo flags accounting error, as shares tank despite revenue ",
-        "• Daiichi Sankyo Company (TSE:4568) Could Be 34% Undervalued Following T"
+        "• Daiichi Sankyo Company Profile & Introduction - Moomoo",
+        "• Assessing Daiichi Sankyo Company (TSE:4568) Valuation After Recent Sha"
       ]
     },
     {
@@ -63,8 +63,8 @@
       "status": "verde",
       "sinais": [
         "• Sallie Mae Stock Tumbles 7.6% on Elevated Charge-Off Concerns - Yahoo ",
-        "• 91% of Families See College as a Valuable Investment, Study Finds - St",
-        "• Sallie Mae stock dips on fresh concerns over charge-offs, impact on re"
+        "• Sallie Mae stock dips on fresh concerns over charge-offs, impact on re",
+        "• Hercules Capital and Sallie Mae Shares Are Falling, What You Need To K"
       ]
     },
     {
@@ -74,8 +74,8 @@
       "status": "verde",
       "sinais": [
         "• Realty Income (O) Stock Looks Fully Priced Despite Strong Returns And ",
-        "• Realty Income Announces Closing of $1.0 Billion Convertible Senior Not",
-        "• Realty Income (O) Stock Looks Reasonable On Returns But Rich On Earnin"
+        "• Will Realty Income's (O) Convertible Notes And Buyback Shift Its Growt",
+        "• Realty Income Announces Closing of $1.0 Billion Convertible Senior Not"
       ]
     }
   ]
