@@ -1,5 +1,5 @@
 {
-  "data": "2026-08-18T07:30:20.013284",
+  "data": "2026-08-19T07:30:43.474885",
   "empresas": [
     {
       "ticker": "MSFT",
@@ -7,9 +7,9 @@
       "tese": "Alugo o escritório digital ao mundo",
       "status": "verde",
       "sinais": [
-        "• Why Microsoft Stock Dropped Today - Yahoo Finance",
         "• Should You Buy Microsoft Stock Now or Wait for a Dip? - Yahoo Finance",
-        "• Why Microsoft Stock Dropped Today - The Motley Fool"
+        "• Why Microsoft Stock Dropped Today - fool.com",
+        "• Microsoft: The Price Climbed Too Far Too Fast (Rating Downgrade) (MSFT"
       ]
     },
     {
@@ -19,8 +19,8 @@
       "status": "verde",
       "sinais": [
         "✓ Amazon’s Stock Could Hit $500 by End of 2027. Why AWS Revenue Is the K",
-        "• Here’s how Amazon’s stock could nearly double by the end of next year,",
-        "• Morgan Stanley resets Amazon stock price target after earnings - thest"
+        "• Morgan Stanley resets Amazon stock price target after earnings - thest",
+        "• Stanley Druckenmiller loaded up on Amazon and chip stocks before July "
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tese": "Vendo a única pá das minas de IA",
       "status": "amarelo",
       "sinais": [
-        "• Apple’s stock could rise 30% if it strikes an Nvidia deal for AI, this",
-        "• Nvidia Strikes Deal With OpenAI As Tenant; Is Nvidia A Buy Now? - Inve",
-        "• Nvidia's stock has started to come alive. Here's 3 reasons why it can "
+        "• Bank of America Thinks Nvidia Stock Could Go 50% Higher - Yahoo Financ",
+        "• Nvidia's AI moat is shifting from chips to capital - CNBC",
+        "• 8 Stocks Nvidia Has Invested In - U.S. News - Money"
       ]
     },
     {
@@ -40,20 +40,20 @@
       "tese": "Faço mísseis contra cancro",
       "status": "amarelo",
       "sinais": [
+        "• Daiichi Sankyo flags accounting error, as shares tank despite revenue ",
         "• Assessing Daiichi Sankyo Company (TSE:4568) Valuation After Recent Sha",
-        "• Daiichi Sankyo Company Profile & Introduction - Moomoo",
-        "• Daiichi Sankyo Company (TSE:4568) Could Be 34% Undervalued Following T"
+        "• Daiichi Sankyo Company Profile & Introduction - moomoo.com"
       ]
     },
     {
       "ticker": "NVO",
       "nome": "Novo Nordisk",
       "tese": "Tiro a fome com hormona",
-      "status": "verde",
+      "status": "vermelho",
       "sinais": [
         "• Novo Nordisk Shares Are 70% Off Their Peak. Is the Stock Fairly Valued",
-        "• LLY Stock Climbs As Oral GLP-1 Pill Beats Novo Nordisk, AstraZeneca’s ",
-        "• Novo Nordisk shares slide after guidance disappoints investors - CNBC"
+        "🔴 The divide between Eli Lilly and Novo Nordisk is widening after their ",
+        "• 3 Absurdly Cheap Dividend Stocks to Buy for Under $100 Right Now - Yah"
       ]
     },
     {
@@ -62,9 +62,9 @@
       "tese": "Empresto a jovens",
       "status": "verde",
       "sinais": [
-        "• symbol__ Stock Quote Price and Forecast - CNN",
         "• Sallie Mae Stock Tumbles 7.6% on Elevated Charge-Off Concerns - Yahoo ",
-        "• Sallie Mae Declares Dividends on Preferred Stock Series B and Common S"
+        "• Sallie Mae Declares Dividends on Preferred Stock Series B and Common S",
+        "• Sallie Mae stock dips on fresh concerns over charge-offs, impact on re"
       ]
     },
     {
@@ -73,9 +73,9 @@
       "tese": "Compro lojas, distribuo renda",
       "status": "verde",
       "sinais": [
-        "• How to Buy Realty Income Stock (O) in 2026 - The Motley Fool",
-        "• Is Realty Income the Ultimate Dividend Stock to Own? - The Globe and M",
-        "• Realty Income (O) Stock Looks Fully Priced Despite Strong Returns And "
+        "• Realty Income Announces 674th Consecutive Common Stock Monthly Dividen",
+        "• Realty Income Corporation (O)’s Monthly Dividend Makes it a Standout I",
+        "• Is Realty Income the Ultimate Dividend Stock to Own? - fool.com"
       ]
     }
   ]
