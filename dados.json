@@ -1,5 +1,5 @@
 {
-  "data": "2026-08-20T07:33:27.869068",
+  "data": "2026-08-21T07:35:38.216704",
   "empresas": [
     {
       "ticker": "MSFT",
@@ -7,9 +7,9 @@
       "tese": "Alugo o escritório digital ao mundo",
       "status": "verde",
       "sinais": [
-        "• Microsoft Stock Rises as $678 Billion Backlog Supports AI Spending - Y",
         "• Has Microsoft Stock Found The Next Growth Driver? - Forbes",
-        "• Microsoft Corporation $MSFT Stock Position Boosted by Hamilton Wealth "
+        "• Microsoft Stock Rises as $678 Billion Backlog Supports AI Spending - Y",
+        "• Automatic Data Processing vs. Microsoft: Which Technology Stock Is a B"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tese": "Cobro portagem e alugo a internet",
       "status": "verde",
       "sinais": [
-        "• Prediction: This Will Be Amazon's Stock Price by the End of 2026 - The",
         "✓ Amazon Stock Rises as AWS Growth Reclaims Attention - Yahoo Finance",
-        "• Stanley Druckenmiller loaded up on Amazon and chip stocks before July "
+        "• Prediction: This Will Be Amazon's Stock Price by the End of 2026 - The",
+        "• Amazon Stock (AMZN) Drops Despite $2B Prime Video Investment Push - Ti"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tese": "Vendo a única pá das minas de IA",
       "status": "amarelo",
       "sinais": [
-        "• Nvidia stock's deep discount creates a 'compelling opportunity,' BofA ",
-        "• Nvidia Chip-Filled Data Centers Need More Power Than Any Utility Can P",
-        "• 'Big Short' investor Michael Burry unpacks 'serious competition' for N"
+        "• Going Into Earnings, Is Nvidia Stock a Buy, a Sell, or Fairly Valued? ",
+        "• Tech stocks today: Anthropic's IPO plans come into focus, Nvidia earni",
+        "• Nvidia, AMD, and Intel: Wall Street Says to Buy 2 and Avoid 1. I Disag"
       ]
     },
     {
@@ -49,11 +49,11 @@
       "ticker": "NVO",
       "nome": "Novo Nordisk",
       "tese": "Tiro a fome com hormona",
-      "status": "verde",
+      "status": "vermelho",
       "sinais": [
         "• Novo Nordisk Shares Are 70% Off Their Peak. Is the Stock Fairly Valued",
-        "• Is Novo Nordisk (NVO) Undervalued As Oral Semaglutide Progress Shapes ",
-        "• Novo Nordisk (CPSE:NOVO B) Stock Still Looks Undervalued After Dutch C"
+        "🔴 The divide between Eli Lilly and Novo Nordisk is widening after their ",
+        "• Novo Nordisk A/S: Trading in Novo Nordisk shares by board members, exe"
       ]
     },
     {
@@ -74,8 +74,8 @@
       "status": "verde",
       "sinais": [
         "• Realty Income Announces 674th Consecutive Common Stock Monthly Dividen",
-        "• Realty Income Corporation (O)’s Monthly Dividend Makes it a Standout I",
-        "• Is Realty Income (O) A Bargain Following Its Latest Dividend Declarati"
+        "• Realty Income: The Dividend Is The Tip Of The Iceberg (NYSE:O) - Seeki",
+        "• Realty Income Corporation (O)’s Monthly Dividend Makes it a Standout I"
       ]
     }
   ]
