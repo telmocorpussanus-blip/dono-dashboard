@@ -1,5 +1,5 @@
 {
-  "data": "2026-08-22T07:24:12.581338",
+  "data": "2026-08-23T07:26:00.093117",
   "empresas": [
     {
       "ticker": "MSFT",
@@ -7,9 +7,9 @@
       "tese": "Alugo o escritório digital ao mundo",
       "status": "verde",
       "sinais": [
-        "• Is Microsoft a Screaming Buy Under $500 Per Share? - Currently.com",
-        "• Microsoft Spent $115.9 Billion on AI. What Did Shareholders Get? - 24/",
-        "• Microsoft Stock (NASDAQ:MSFT) Notches Up With 22 New Security Patches "
+        "• I've Held Microsoft for 10 Years. Here's Why I'm Not Selling a Single ",
+        "• Microsoft: Higher Revenue Visibility Met Measured Capex - Seeking Alph",
+        "• Is Microsoft a Screaming Buy Under $500 Per Share? - The Motley Fool"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tese": "Cobro portagem e alugo a internet",
       "status": "verde",
       "sinais": [
-        "✓ Amazon Stock Rises as AWS Growth Reclaims Attention - Yahoo Finance",
+        "• Amazon Stock Is Historically Cheap. Is This a Once-in-a-Decade Buying ",
         "• Billionaire investor makes Amazon his biggest stock bet - thestreet.co",
-        "• Prediction: This Will Be Amazon's Stock Price by the End of 2026 - The"
+        "• Amazon Stock (AMZN) Slips amid Plans to Invest $2 Billion in Latin Ame"
       ]
     },
     {
@@ -30,8 +30,8 @@
       "status": "amarelo",
       "sinais": [
         "• Going Into Earnings, Is Nvidia Stock a Buy, a Sell, or Fairly Valued? ",
-        "• Morgan Stanley resets Nvidia stock forecast ahead of earnings - thestr",
-        "• Nvidia stock's deep discount creates a 'compelling opportunity,' BofA "
+        "• Nvidia customers reportedly warned about AI-related price hikes - CNBC",
+        "• Why 1 Analyst Says Vera Rubin Is Key for Nvidia Stock in Q2 - Yahoo Fi"
       ]
     },
     {
@@ -49,11 +49,11 @@
       "ticker": "NVO",
       "nome": "Novo Nordisk",
       "tese": "Tiro a fome com hormona",
-      "status": "verde",
+      "status": "vermelho",
       "sinais": [
-        "• Novo Nordisk Stock And 2 Dividend Growers With Strong Cash Flow - simp",
-        "• Novo Nordisk: What We Think of the Stock After Earnings - Morningstar",
-        "• Novo Nordisk A/S: Trading in Novo Nordisk shares by board members, exe"
+        "• Novo Nordisk Shares Are 70% Off Their Peak. Is the Stock Fairly Valued",
+        "• Novo Nordisk A/S: Trading in Novo Nordisk shares by board members, exe",
+        "🔴 The divide between Eli Lilly and Novo Nordisk is widening after their "
       ]
     },
     {
@@ -73,9 +73,9 @@
       "tese": "Compro lojas, distribuo renda",
       "status": "verde",
       "sinais": [
+        "• Passive Income: How Much Would You Need to Invest in Realty Income (O)",
         "• Realty Income Announces 674th Consecutive Common Stock Monthly Dividen",
-        "• Which Retail Real Estate Stock Has Dominated in 2026: Realty Income, S",
-        "• Realty Income Corporation (O)’s Monthly Dividend Makes it a Standout I"
+        "• Why I Think the Best Dividend Stock Isn't a Tech Name: It's Realty Inc"
       ]
     }
   ]
