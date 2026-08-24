@@ -1,5 +1,5 @@
 {
-  "data": "2026-08-23T07:26:00.093117",
+  "data": "2026-08-24T07:50:59.783974",
   "empresas": [
     {
       "ticker": "MSFT",
@@ -7,9 +7,9 @@
       "tese": "Alugo o escritório digital ao mundo",
       "status": "verde",
       "sinais": [
-        "• I've Held Microsoft for 10 Years. Here's Why I'm Not Selling a Single ",
+        "• Microsoft Stock Dropped 30% From Its All-Time High: 2 Reasons It Could",
         "• Microsoft: Higher Revenue Visibility Met Measured Capex - Seeking Alph",
-        "• Is Microsoft a Screaming Buy Under $500 Per Share? - The Motley Fool"
+        "• Microsoft Stock (NASDAQ:MSFT) Notches Up With 22 New Security Patches "
       ]
     },
     {
@@ -19,8 +19,8 @@
       "status": "verde",
       "sinais": [
         "• Amazon Stock Is Historically Cheap. Is This a Once-in-a-Decade Buying ",
-        "• Billionaire investor makes Amazon his biggest stock bet - thestreet.co",
-        "• Amazon Stock (AMZN) Slips amid Plans to Invest $2 Billion in Latin Ame"
+        "• Oracle vs. Amazon: Which Is the Better AI Cloud Stock to Own for the N",
+        "• After Earnings, Is Amazon Stock a Buy, a Sell, or Fairly Valued? - Mor"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tese": "Vendo a única pá das minas de IA",
       "status": "amarelo",
       "sinais": [
-        "• Going Into Earnings, Is Nvidia Stock a Buy, a Sell, or Fairly Valued? ",
-        "• Nvidia customers reportedly warned about AI-related price hikes - CNBC",
-        "• Why 1 Analyst Says Vera Rubin Is Key for Nvidia Stock in Q2 - Yahoo Fi"
+        "• Wall St Week Ahead Nvidia earnings, Jackson Hole to test pillars of st",
+        "• Nvidia Stock Is Treading Water Ahead of Earnings This Week - What's th",
+        "• Nvidia and Warsh Will Test a Stock Market That’s in Mid-Rotation - Blo"
       ]
     },
     {
@@ -40,20 +40,20 @@
       "tese": "Faço mísseis contra cancro",
       "status": "amarelo",
       "sinais": [
-        "• Here’s why Daiichi Sankyo shares are rallying today - Investing.com",
         "• Daiichi Sankyo flags accounting error, as shares tank despite revenue ",
-        "• Assessing Daiichi Sankyo Company (TSE:4568) Valuation After Recent Sha"
+        "• Here’s why Daiichi Sankyo shares are rallying today - Investing.com",
+        "• Daiichi Life Insurance Co. Ltd. Buys Shares of 183,684 Gilead Sciences"
       ]
     },
     {
       "ticker": "NVO",
       "nome": "Novo Nordisk",
       "tese": "Tiro a fome com hormona",
-      "status": "vermelho",
+      "status": "verde",
       "sinais": [
         "• Novo Nordisk Shares Are 70% Off Their Peak. Is the Stock Fairly Valued",
-        "• Novo Nordisk A/S: Trading in Novo Nordisk shares by board members, exe",
-        "🔴 The divide between Eli Lilly and Novo Nordisk is widening after their "
+        "• LLY Stock Climbs As Oral GLP-1 Pill Beats Novo Nordisk, AstraZeneca’s ",
+        "• Novo Nordisk A/S: Trading in Novo Nordisk shares by board members, exe"
       ]
     },
     {
@@ -74,7 +74,7 @@
       "status": "verde",
       "sinais": [
         "• Passive Income: How Much Would You Need to Invest in Realty Income (O)",
-        "• Realty Income Announces 674th Consecutive Common Stock Monthly Dividen",
+        "• Realty Income: It's Not Too Late To 'Buy' (NYSE:O) - Seeking Alpha",
         "• Why I Think the Best Dividend Stock Isn't a Tech Name: It's Realty Inc"
       ]
     }
