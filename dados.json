@@ -1,5 +1,5 @@
 {
-  "data": "2026-08-24T07:50:59.783974",
+  "data": "2026-08-25T07:36:38.996976",
   "empresas": [
     {
       "ticker": "MSFT",
@@ -7,9 +7,9 @@
       "tese": "Alugo o escritório digital ao mundo",
       "status": "verde",
       "sinais": [
+        "• Microsoft Stock's Upside Now Runs Through Its Data Center Build - Yaho",
         "• Microsoft Stock Dropped 30% From Its All-Time High: 2 Reasons It Could",
-        "• Microsoft: Higher Revenue Visibility Met Measured Capex - Seeking Alph",
-        "• Microsoft Stock (NASDAQ:MSFT) Notches Up With 22 New Security Patches "
+        "• Microsoft Stock (NASDAQ:MSFT) Gains Despite Small Customer List in AI "
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tese": "Cobro portagem e alugo a internet",
       "status": "verde",
       "sinais": [
-        "• Amazon Stock Is Historically Cheap. Is This a Once-in-a-Decade Buying ",
         "• Oracle vs. Amazon: Which Is the Better AI Cloud Stock to Own for the N",
-        "• After Earnings, Is Amazon Stock a Buy, a Sell, or Fairly Valued? - Mor"
+        "• Huge News For Amazon Stock Fans - TradingView",
+        "✓ Amazon Stock (AMZN) Rises Despite a New Twitch AI Lawsuit - TipRanks"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tese": "Vendo a única pá das minas de IA",
       "status": "amarelo",
       "sinais": [
-        "• Wall St Week Ahead Nvidia earnings, Jackson Hole to test pillars of st",
-        "• Nvidia Stock Is Treading Water Ahead of Earnings This Week - What's th",
-        "• Nvidia and Warsh Will Test a Stock Market That’s in Mid-Rotation - Blo"
+        "• Nvidia earnings face a frustrating reality - Yahoo Finance",
+        "• Dow Jones Futures: Trump, Bessent Comments Spark Tech Losses; Nvidia S",
+        "• Stock Market Today: Dow, S&P 500 and Nasdaq set to climb a day ahead o"
       ]
     },
     {
@@ -49,11 +49,11 @@
       "ticker": "NVO",
       "nome": "Novo Nordisk",
       "tese": "Tiro a fome com hormona",
-      "status": "verde",
+      "status": "vermelho",
       "sinais": [
         "• Novo Nordisk Shares Are 70% Off Their Peak. Is the Stock Fairly Valued",
-        "• LLY Stock Climbs As Oral GLP-1 Pill Beats Novo Nordisk, AstraZeneca’s ",
-        "• Novo Nordisk A/S: Trading in Novo Nordisk shares by board members, exe"
+        "• Novo Nordisk A/S: Trading in Novo Nordisk shares by board members, exe",
+        "🔴 The divide between Eli Lilly and Novo Nordisk is widening after their "
       ]
     },
     {
@@ -63,7 +63,7 @@
       "status": "verde",
       "sinais": [
         "• Sallie Mae Stock Tumbles 7.6% on Elevated Charge-Off Concerns - Yahoo ",
-        "• 2 Unpopular Stocks That Deserve Some Love and 1 That Underwhelm - Stoc",
+        "• Sallie Mae (NASDAQ:SLM) Misses Q2 CY2026 Sales Expectations - StockSto",
         "• Sallie Mae stock dips on fresh concerns over charge-offs, impact on re"
       ]
     },
@@ -74,8 +74,8 @@
       "status": "verde",
       "sinais": [
         "• Passive Income: How Much Would You Need to Invest in Realty Income (O)",
-        "• Realty Income: It's Not Too Late To 'Buy' (NYSE:O) - Seeking Alpha",
-        "• Why I Think the Best Dividend Stock Isn't a Tech Name: It's Realty Inc"
+        "• Which Retail Real Estate Stock Has Dominated in 2026: Realty Income, S",
+        "• What Realty Income (O)'s New Convertible Notes and Steady Dividend Mea"
       ]
     }
   ]
