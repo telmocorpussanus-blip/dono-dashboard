@@ -1,5 +1,5 @@
 {
-  "data": "2026-09-20T11:55:44.979884",
+  "data": "2026-09-21T13:30:04.864947",
   "empresas": [
     {
       "ticker": "MSFT",
@@ -7,9 +7,9 @@
       "tese": "Alugo o escritório digital ao mundo",
       "status": "verde",
       "sinais": [
-        "• 1 Year Into the Microsoft Deal, IREN Is Delivering and a Rally May Fol",
-        "• What Did Microsoft Tell You Before Its Stock Ran? - Yahoo Finance",
-        "• 3 Reasons to Hold Microsoft Stock After a 31.2% Surge in 3 Months - Za"
+        "• The Zacks Analyst Blog Highlights Microsoft, Amazon, Oracle and Alphab",
+        "• Microsoft Stock Soared 30%, Should You Still Buy It? - Forbes",
+        "• JMP Securities upgrades Microsoft stock rating on AI development appro"
       ]
     },
     {
@@ -18,20 +18,20 @@
       "tese": "Cobro portagem e alugo a internet",
       "status": "verde",
       "sinais": [
-        "• Bank of America resets Amazon stock forecast on delivery plan - thestr",
-        "• How to Play AMZN Stock as Amazon Unveils Project Mercury - Yahoo Finan",
-        "• Forget Buying All Seven: The \"Magnificent Seven\" Stock Most Likely to "
+        "• We’re More Bullish on Amazon Than Wall Street Is. Here’s the Math. - Y",
+        "• Forget Buying All Seven: The \"Magnificent Seven\" Stock Most Likely to ",
+        "• Bank of America resets Amazon stock forecast on delivery plan - thestr"
       ]
     },
     {
       "ticker": "NVDA",
       "nome": "NVIDIA",
       "tese": "Vendo a única pá das minas de IA",
-      "status": "amarelo",
+      "status": "vermelho",
       "sinais": [
-        "• Prediction: This Is Where Nvidia Stock Could Be by the End of Next Yea",
-        "• Nvidia Stock Hasn't Set a Record in 4 Months. History Says These Stall",
-        "• Nvidia Stock And 2 US AI Infrastructure Plays Tied To Federal Defense "
+        "🔴 Nvidia Stock: Are Trump Talks With China's Xi the AI Chips Catalyst It",
+        "• Stock Market Today: Dow Rallies 450 Points As Oil Prices, Treasury Yie",
+        "• The Zacks Analyst Blog Highlights Credo Technology and NVIDIA - Yahoo "
       ]
     },
     {
@@ -40,7 +40,7 @@
       "tese": "Faço mísseis contra cancro",
       "status": "amarelo",
       "sinais": [
-        "• Daiichi Life Insurance Co. Ltd. Buys Shares of 530,942 Amazon.com, Inc",
+        "• DCNSF Stock Price and Chart — OTC:DCNSF - TradingView",
         "• Assessing Daiichi Sankyo Company (TSE:4568) Valuation After Recent Sha",
         "• Daiichi Sankyo flags accounting error, as shares tank despite revenue "
       ]
@@ -51,9 +51,9 @@
       "tese": "Tiro a fome com hormona",
       "status": "verde",
       "sinais": [
-        "• Why Novo Nordisk (NVO) Is Getting Attention Today - Yahoo Finance",
-        "• Novo Nordisk (NVO) Secures Key EU Panel Backing For Child Growth Drug ",
-        "✓ Novo Nordisk CEO defends economics of Wegovy pill as lower prices weig"
+        "✓ Novo shares slide as drugmaker lays out post-Wegovy growth strategy - ",
+        "• Novo Nordisk stock gets drilled on pipeline concerns -- its CEO sees t",
+        "• Novo Nordisk’s stock tumbles as doubts persist about Ozempic maker’s g"
       ]
     },
     {
@@ -63,8 +63,8 @@
       "status": "verde",
       "sinais": [
         "• Sallie Mae Stock Tumbles 7.6% on Elevated Charge-Off Concerns - Yahoo ",
-        "• SLM: Student Loan Giant Keeps Growing Its Loan Book While Covering Div",
-        "• Sallie Mae (SLM) Q2 Earnings: What To Expect - StockStory"
+        "• Sallie Mae (SLM): Buy, Sell, or Hold Post Q1 Earnings? - StockStory",
+        "• Sallie Mae Stock Down 15% in a Year, and One Fund Just Dumped Its $5.5"
       ]
     },
     {
@@ -73,9 +73,9 @@
       "tese": "Compro lojas, distribuo renda",
       "status": "verde",
       "sinais": [
-        "• History Says This Is the Amount of Yearly Dividend Income a $7,500 Inv",
+        "• Realty Income or Agree Realty During a REIT Sell-Off? - Yahoo Finance",
         "• 135th Common Stock Monthly Dividend Increase Declared by Realty Income",
-        "• Realty Income stock nears its 52-week low: Is selloff a buying chance?"
+        "• 5 Monthly Dividend Stocks Retirees Can Count On in September - 24/7 Wa"
       ]
     }
   ]
