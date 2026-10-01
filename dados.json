@@ -1,5 +1,5 @@
 {
-  "data": "2026-09-30T13:12:45.251232",
+  "data": "2026-10-01T14:02:29.009980",
   "empresas": [
     {
       "ticker": "MSFT",
@@ -7,9 +7,9 @@
       "tese": "Alugo o escritório digital ao mundo",
       "status": "verde",
       "sinais": [
-        "• Microsoft’s stock is on track to post its biggest quarterly gain in 28",
-        "• Microsoft Stock Drops 2.2% as AI Adoption Gap Reaches 12.6 Points - Ya",
-        "• Jim Cramer: Apple, Microsoft, and Meta prove stock picking for individ"
+        "• Microsoft stock best quarter since 1998: Q3 2026 gains 37.5% - qz.com",
+        "• How Much Upside Is Left In Microsoft Stock? - Yahoo Finance",
+        "• Microsoft Just Had Its Best Quarter Since 1991 - 24/7 Wall St."
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tese": "Cobro portagem e alugo a internet",
       "status": "verde",
       "sinais": [
-        "• Is Amazon Stock a Buy, Hold, or Sell Below $250? - Yahoo Finance",
         "• Amazon Stock Has 46% Upside. Muse and Dots Threats Are ‘Overstated.’ -",
-        "• Amazon Stock Has the ‘Muse Blues.’ Is There a Silver Lining? - WSJ"
+        "• Amazon and these four U.S. stocks are latest additions to Goldman’s fl",
+        "• How much AMZN stock does Amazon’s founder Jeff Bezos actually own? - Y"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tese": "Vendo a única pá das minas de IA",
       "status": "amarelo",
       "sinais": [
-        "• What Nvidia's $150 billion stock buyback means for shareholders and po",
-        "• Nvidia, AMD Collaborator Teases Breakout To Record High. These Clues B",
-        "• How Nvidia’s Big Win at Trump’s AI Lunch Will Boost the Stock - Barron"
+        "• Nvidia is approaching a breakout level. Plus, what we want to see from",
+        "• NVIDIA Announces a $150 Billion Share Repurchase Authorization Increas",
+        "• NVIDIA Soars 17% in Three Months: Should Investors Buy the Stock? - Ya"
       ]
     },
     {
@@ -42,18 +42,18 @@
       "sinais": [
         "• Daiichi Sankyo Company, Limited (DSNKY) stock price, news, quote and h",
         "• Why is Daiichi Sankyo stock falling today? - Investing.com",
-        "• Will FDA Filing Withdrawal Change Daiichi Sankyo Stock Narrative - sim"
+        "• Will FDA Filing Withdrawal Change Daiichi Sankyo Stock Narrative - Sim"
       ]
     },
     {
       "ticker": "NVO",
       "nome": "Novo Nordisk",
       "tese": "Tiro a fome com hormona",
-      "status": "verde",
+      "status": "vermelho",
       "sinais": [
         "• Novo Nordisk: After A 70+% Drop, It's A Great Investment (NYSE:NVO) - ",
-        "• Novo Nordisk A/S - share repurchase programme - Yahoo Finance",
-        "• Bristol Myers Squibb vs. Novo Nordisk: Which Healthcare Stock Is a Bet"
+        "• If You Love Speculating, You Should Keep a Close Eye on Novo Nordisk S",
+        "🔴 Missed Out On The Eli Lilly & Novo Nordisk GLP-1 Boom? These 7 Stocks "
       ]
     },
     {
@@ -62,9 +62,9 @@
       "tese": "Empresto a jovens",
       "status": "verde",
       "sinais": [
+        "• SLM Corporation (SLM) Stock Price, News, Quote & History - Yahoo! Fina",
         "• SLM Corporation (SLMBP) Stock Price, News, Quote & History - Yahoo! Fi",
-        "• Sallie Mae Reports Fourth Quarter and Full-Year 2025 Financial Results",
-        "• Sallie Mae Stock Down 15% in a Year, and One Fund Just Dumped Its $5.5"
+        "• Sallie Mae Reports Fourth Quarter and Full-Year 2025 Financial Results"
       ]
     },
     {
@@ -73,9 +73,9 @@
       "tese": "Compro lojas, distribuo renda",
       "status": "verde",
       "sinais": [
-        "• Realty Income (O) Stock Trades At A Premium Following Scotiabank Downg",
-        "• Realty Income (O) Stock Pays Dividends Monthly. Does That Actually Mak",
-        "• Meet the 1 Stock I'd Buy With $5,000, Even If the Market Fell 10% Tomo"
+        "• Rates Are Hammering REITs. These 5 Dividends Are Built to Hold Up - Ya",
+        "• Realty Income Is Getting Hammered: I’m Buying More (NYSE:O) - Seeking ",
+        "• Realty Income Stock Sits 18% Below Its 52-Week High After a Scotiabank"
       ]
     }
   ]
