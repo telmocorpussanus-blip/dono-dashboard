@@ -1,5 +1,5 @@
 {
-  "data": "2026-10-06T13:48:37.691708",
+  "data": "2026-10-07T14:05:37.890184",
   "empresas": [
     {
       "ticker": "MSFT",
@@ -7,9 +7,9 @@
       "tese": "Alugo o escritório digital ao mundo",
       "status": "verde",
       "sinais": [
-        "• Microsoft Seen As 'Adults In Charge' Of AI. Stock Upgraded To Buy. - I",
-        "• Satya Nadella reinvented Microsoft once. Can he do it again in the AI ",
-        "• Microsoft’s blazing stock comeback isn’t even close to being over, ana"
+        "• Microsoft Nears $4 Trillion as AI Safety Fears Become a Selling Point ",
+        "• Jim Cramer is backing Meta and Microsoft as top AI plays - Quartz",
+        "• 96% of Analysts Are Bullish on Microsoft. Here’s the Price That Implie"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tese": "Cobro portagem e alugo a internet",
       "status": "verde",
       "sinais": [
+        "• If you'd bought $10,000 worth of Amazon stock 10 years ago, here's how",
         "• Amazon stock is trading at its lowest valuation ever as a public compa",
-        "• Susquehanna reiterates Positive rating on Amazon stock at $325 By Inve",
-        "• Amazon Just Showed Its Cards And Pushed In All Its Chips - Yahoo Finan"
+        "• What Has Changed About Owning Amazon Stock? - Trefis"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tese": "Vendo a única pá das minas de IA",
       "status": "amarelo",
       "sinais": [
+        "• Not Nvidia. Not Micron. If I Could Buy and Hold Only 1 Artificial Inte",
         "• Nvidia Stock Hits Record as Key Supplier’s Revenue Booms on AI Demand ",
-        "• Why Nvidia Stock Hit a Record, and the $575 Target a Mid Case Points T",
-        "• Stocks to Watch: SpaceX, Nvidia, Lamb Weston, Uber - wsj.com"
+        "• Q3 2026 insider stock sales: Nvidia's Mark Stevens tops AI sellers - Q"
       ]
     },
     {
@@ -40,20 +40,20 @@
       "tese": "Faço mísseis contra cancro",
       "status": "amarelo",
       "sinais": [
-        "• Daiichi Sankyo (TSE:4568) Stock Could Trade At A Discount As Shares Fe",
-        "• Roundup: Novartis & Abogen Enter Licensing and Option Agreement, Astra",
-        "• Daiichi Sankyo (TSE:4568) Stock Still Looks Cheap Despite A 27% Slide "
+        "• Daiichi Sankyo Company, Limited (DSNKY) Stock Price, News, Quote & His",
+        "• Cancer Trial Tie Up Might Change The Case For Investing In Daiichi San",
+        "• Roundup: Novartis & Abogen Enter Licensing and Option Agreement, Astra"
       ]
     },
     {
       "ticker": "NVO",
       "nome": "Novo Nordisk",
       "tese": "Tiro a fome com hormona",
-      "status": "vermelho",
+      "status": "verde",
       "sinais": [
         "• Better High-Yield Dividend Stock: Pfizer or Novo Nordisk? - Yahoo Fina",
-        "🔴 Eli Lilly and vs. Novo Nordisk A/S: Which Healthcare Stock Is a Better",
-        "• Novo Nordisk (NVO) Pulls Back Sharply, Is It A Bargain? - simplywall.s"
+        "• Novo Nordisk Stock Has Fallen Sharply, Does a Long-Term Opportunity Em",
+        "• Novo Nordisk (NVO) Pulls Back Sharply, Is It A Bargain? - Simply Wall "
       ]
     },
     {
@@ -62,7 +62,7 @@
       "tese": "Empresto a jovens",
       "status": "verde",
       "sinais": [
-        "• Sallie Mae Stock Tumbles 7.6% on Elevated Charge-Off Concerns - Yahoo ",
+        "• SLM Corporation (SLM) Stock Price, News, Quote & History - Yahoo! Fina",
         "• Sallie Mae Reports Fourth Quarter and Full-Year 2025 Financial Results",
         "• Sallie Mae Stock Down 15% in a Year, and One Fund Just Dumped Its $5.5"
       ]
@@ -73,9 +73,9 @@
       "tese": "Compro lojas, distribuo renda",
       "status": "verde",
       "sinais": [
-        "• McDonald’s vs Realty Income: Which Dividend Grows Faster Over the Next",
-        "• Realty Income Stock Is Down 12% Over the Past 3 Months. Here’s Why Str",
-        "• If You Invest $100 Per Month in Realty Income (O) Stock, Here's the Pa"
+        "• Realty Income Joined the Dividend Aristocrats and the Stock Went Nowhe",
+        "• Realty Income Joined the Dividend Aristocrats and the Stock Went Nowhe",
+        "• The 10-Year Treasury Just Hit a 24-Year High. Here's What History Says"
       ]
     }
   ]
