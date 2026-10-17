@@ -1,5 +1,5 @@
 {
-  "data": "2026-10-16T12:01:02.892366",
+  "data": "2026-10-17T11:16:52.736698",
   "empresas": [
     {
       "ticker": "MSFT",
@@ -7,9 +7,9 @@
       "tese": "Alugo o escritório digital ao mundo",
       "status": "verde",
       "sinais": [
-        "• What’s behind Microsoft’s surging share price - The Seattle Times",
-        "• Claude Was Right About Microsoft (MSFT): Can The Stock Keep Rising? - ",
-        "• My Microsoft Price Prediction Looks Well Beyond the Current AI Cycle -"
+        "• Not Alphabet. Not Microsoft. This Is the Cloud Stock I'd Buy With $5,0",
+        "• What Happens to Software Stocks When Nobody Opens Apps Anymore? Micros",
+        "• How Earnings Beat Will Impact Microsoft (MSFT) Stock - Yahoo Finance"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tese": "Cobro portagem e alugo a internet",
       "status": "verde",
       "sinais": [
-        "• How to Play AMZN Stock Amid the Latest Round of Amazon Layoffs - Barch",
-        "• Cathie Wood’s ARK sells Amazon stock, buys CoreWeave and Iambic - Inve",
-        "• Is The Market Underpricing Amazon Stock At Twenty Times Earnings? - Tr"
+        "• Here Are the 3 Magnificent Seven Stocks I'd Buy Today - The Motley Foo",
+        "• Is The Market Underpricing Amazon Stock At Twenty Times Earnings? - Tr",
+        "• Cathie Wood’s ARK sells Amazon stock, buys CoreWeave and Iambic - Inve"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tese": "Vendo a única pá das minas de IA",
       "status": "amarelo",
       "sinais": [
-        "• Lenders Are Getting Nervous About CoreWeave. I'd Still Buy Nvidia Stoc",
-        "• Nvidia, AMD, Dell sink in global tech rout on AI funding worries - CNB",
-        "• Nvidia leads chip stocks lower as AI trade takes - Yahoo Finance"
+        "• Nvidia leads chip stocks lower as AI trade takes - Yahoo Finance",
+        "• IonQ Is Following Nvidia's Playbook. Why the Stock Could Be a Buy Afte",
+        "• Nvidia, AMD, Dell sink in global tech rout on AI funding worries - CNB"
       ]
     },
     {
@@ -49,10 +49,10 @@
       "ticker": "NVO",
       "nome": "Novo Nordisk",
       "tese": "Tiro a fome com hormona",
-      "status": "verde",
+      "status": "vermelho",
       "sinais": [
+        "🔴 Novo Nordisk’s Growth Story Is Under Pressure as Eli Lilly Gains Groun",
         "• Novo Nordisk A/S Stock (NVO) Moved Up by 3.38% on Oct 15: What Investo",
-        "• Why Novo Nordisk (NVO) Dipped More Than Broader Market Today - Yahoo F",
         "• Novo Nordisk: Stock Drops, But New Targets Look Similar to Our Project"
       ]
     },
@@ -63,8 +63,8 @@
       "status": "verde",
       "sinais": [
         "• How Analyst Upgrade Will Impact Sallie Mae Stock Investors - Simply Wa",
-        "• Sallie Mae Declares Dividends on Preferred Stock Series B and Common S",
-        "• Sallie Mae to Release Third-Quarter Financial Results - Yahoo Finance"
+        "• Analysts Estimate Sallie Mae (SLM) to Report a Decline in Earnings: Wh",
+        "• Sallie Mae Declares Dividends on Preferred Stock Series B and Common S"
       ]
     },
     {
@@ -74,8 +74,8 @@
       "status": "verde",
       "sinais": [
         "• Realty Income: Bulls Need To Learn The Dividend And Interest Rate Less",
-        "• Down 12.5% in 2 Months, Is the Sell-Off in Realty Income a Buying Oppo",
-        "• Better High-Yield Dividend Stock: Realty Income vs. Crown Castle - TIK"
+        "• Realty Income or UPS: I Can Only Pick One Dividend Stock for the Next ",
+        "• Down 12.5% in 2 Months, Is the Sell-Off in Realty Income a Buying Oppo"
       ]
     }
   ]
