@@ -1,5 +1,5 @@
 {
-  "data": "2026-10-18T11:53:02.249310",
+  "data": "2026-10-19T14:11:21.004937",
   "empresas": [
     {
       "ticker": "MSFT",
@@ -7,9 +7,9 @@
       "tese": "Alugo o escritório digital ao mundo",
       "status": "verde",
       "sinais": [
-        "• UBS resets Microsoft stock price target for investors - TheStreet",
-        "• Not Alphabet. Not Microsoft. This Is the Cloud Stock I'd Buy With $5,0",
-        "• What Is The Biggest Threat To Microsoft Stock? - Yahoo Finance"
+        "• Microsoft vs. Amazon: Is AMZN’s AI Growth Being Undervalued by Investo",
+        "• Microsoft Pulls Out Of UK Data Center Deal With Nscale - Yahoo Finance",
+        "• Microsoft Gets A Price Target Hike From Bernstein Ahead Of Earnings — "
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tese": "Cobro portagem e alugo a internet",
       "status": "verde",
       "sinais": [
-        "• Should you Buy Amazon Stock Before October 29? History Has a Clear Ans",
-        "• Should you Buy Amazon Stock Before October 29? History Has a Clear Ans",
-        "• Amazon.com, Inc. $AMZN Stock: Perpetual Ltd Increases Holdings - Marke"
+        "• Prediction: Amazon Stock Will Soar After Oct. 29 - Yahoo Finance",
+        "• Why Amazon Stock Is A 'Top Pick' Despite Investor Fears About Meta's M",
+        "• Why Amazon Stock Has 40% Upside Even as Meta’s Muse Changes the E-Comm"
       ]
     },
     {
@@ -30,8 +30,8 @@
       "status": "amarelo",
       "sinais": [
         "• $3,000 Split Across Nvidia, Broadcom, and TSMC Could Be Worth This Muc",
-        "• Why Nvidia Stock Can Defy the Broader Chip Sector Slump - Barron's",
-        "• Nvidia: Jensen Can't Spend His Way Out Of This One - Seeking Alpha"
+        "• NVIDIA And 2 Other Fast Growing Stocks To Own - Yahoo Finance",
+        "• Stock Market Today: Tech Futures Rebound As AI Names Bounce; AMD, Core"
       ]
     },
     {
@@ -40,20 +40,20 @@
       "tese": "Faço mísseis contra cancro",
       "status": "amarelo",
       "sinais": [
-        "• Daiichi Sankyo Company, Limited (DSNKY) stock price, news, quote and h",
-        "• Daiichi Sankyo flags accounting error, as shares tank despite revenue ",
-        "• Daiichi Life Group (TSE:8750) - Stock Analysis - Simply Wall Street"
+        "• Japan's Daiichi Life unit tables offer to take over Australia's Challe",
+        "• Challenger shares surge 17% to eight-year high on $5.5 billion Daiichi",
+        "• Challenger shares surge 17% to eight-year high on $5.5 billion Daiichi"
       ]
     },
     {
       "ticker": "NVO",
       "nome": "Novo Nordisk",
       "tese": "Tiro a fome com hormona",
-      "status": "vermelho",
+      "status": "verde",
       "sinais": [
-        "• Novo Nordisk (NVO) Stock May Be Undervalued As Buybacks Continue - Sim",
-        "🔴 Novo Nordisk’s Growth Story Is Under Pressure as Eli Lilly Gains Groun",
-        "• Novo Nordisk A/S Stock (NVO) Moved Up by 3.38% on Oct 15: What Investo"
+        "• Is Trending Stock Novo Nordisk A/S (NVO) a Buy Now? - Yahoo Finance",
+        "• Novo Nordisk (NVO) repurchased 39.1 million B shares; treasury shares ",
+        "• Novo Nordisk management draws criticism for not buying shares - MedWat"
       ]
     },
     {
@@ -73,9 +73,9 @@
       "tese": "Compro lojas, distribuo renda",
       "status": "verde",
       "sinais": [
+        "• Realty Income Could Be In A Trouble (Rating Downgrade) (NYSE:O) - Seek",
         "• I Just Bought More Realty Income (O) Stock. Here’s How Many Shares It ",
-        "• I Just Bought More Realty Income (O) Stock. Here’s How Many Shares It ",
-        "• Chevron or Realty Income: The One Dividend Stock I’d Hold for the Next"
+        "• 3 Dividend Stocks That Let You Collect Rent Without Becoming a Landlor"
       ]
     }
   ]
