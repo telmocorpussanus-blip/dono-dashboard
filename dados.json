@@ -1,5 +1,5 @@
 {
-  "data": "2026-10-22T12:40:00.359885",
+  "data": "2026-10-23T12:18:18.401472",
   "empresas": [
     {
       "ticker": "MSFT",
@@ -7,9 +7,9 @@
       "tese": "Alugo o escritório digital ao mundo",
       "status": "verde",
       "sinais": [
+        "• Microsoft Stock Could Be Closer to Its Next Big Breakout Than Investor",
         "• Microsoft Stock Strength Sets Up Strategy For A Fast Double-Digit Retu",
-        "• Microsoft and Alphabet opt out of tokenized stocks in latest blow to a",
-        "• Microsoft (MSFT) Stock May Be 22% Undervalued After Maia 300 Unveiling"
+        "• Could You Have Seen The Run In Microsoft Stock Coming? - Yahoo Finance"
       ]
     },
     {
@@ -18,20 +18,20 @@
       "tese": "Cobro portagem e alugo a internet",
       "status": "verde",
       "sinais": [
-        "• Stock Market Today: Dow Dips As Oil Jumps, Nasdaq Pops; Amazon Stock R",
-        "• Amazon Stock Costs More Than the Market. I'd Still Buy It for the Next",
-        "• What Amazon must do to get its stumbling stock back to record highs an"
+        "• If You Invest $1,000 in Amazon Each Month Starting Now, This is What Y",
+        "• Should You Buy Amazon Stock Before Oct. 29? - The Motley Fool",
+        "• Amazon Stock Is Up 8% This Year. Is It Still a Buy Ahead of Earnings? "
       ]
     },
     {
       "ticker": "NVDA",
       "nome": "NVIDIA",
       "tese": "Vendo a única pá das minas de IA",
-      "status": "vermelho",
+      "status": "amarelo",
       "sinais": [
-        "• ASML Has Incredible News for Nvidia Stock and Micron Stock Investors -",
-        "🔴 Not Even Rumors of a Big China Chip Purchase Can Lift Nvidia Stock - B",
-        "• Nvidia’s Jensen Huang Wants AI Chips To Be A ‘Financeable Asset,’ Says"
+        "• $4,000 in These 4 Non-Nvidia Chip Stocks Could Be Worth This Much by 2",
+        "• Nvidia Stock Falls in a Case of Bad Timing Over Another Potential AI I",
+        "• Apple could be about to dethrone Nvidia as world's most valuable compa"
       ]
     },
     {
@@ -42,7 +42,7 @@
       "sinais": [
         "• Daiichi Sankyo Company, Limited (DSNKY) Stock Price, News, Quote & His",
         "• Japan's Daiichi Life unit tables offer to take over Australia's Challe",
-        "• Challenger shares surge 17% to eight-year high on $5.5 billion Daiichi"
+        "• Daiichi Life Offers $4.4 Billion to Buy Rest of Challenger - Bloomberg"
       ]
     },
     {
@@ -51,8 +51,8 @@
       "tese": "Tiro a fome com hormona",
       "status": "verde",
       "sinais": [
-        "• Where Will Novo Stock Be in 10 Years? - The Motley Fool",
-        "• Bristol Myers Squibb vs. Novo Nordisk: Stable Scale vs. GLP-1 Volatili",
+        "• Novo Nordisk (NVO) Stock Sinks As Market Gains: Here's Why - Yahoo Fin",
+        "• Novo Nordisk Strikes Nearly $4 Billion in 2 Deals. Here's What That Me",
         "• Novo Nordisk: Stock Drops, But New Targets Look Similar to Our Project"
       ]
     },
@@ -62,9 +62,9 @@
       "tese": "Empresto a jovens",
       "status": "verde",
       "sinais": [
-        "• Seeking Clues to Sallie Mae (SLM) Q3 Earnings? A Peek Into Wall Street",
-        "• Sallie Mae Declares Dividends on Preferred Stock Series B and Common S",
-        "• Sallie Mae Declares Dividends on Preferred Stock Series B and Common S"
+        "• Sallie Mae Reports Third Quarter 2026 Financial Results - Yahoo Financ",
+        "• Stocks to Watch : Deckers, Sallie Mae, Western Digital, Bloom Energy -",
+        "• Sallie Mae (NASDAQ:SLM) misses Q3 2026 sales expectations - TradingVie"
       ]
     },
     {
@@ -73,8 +73,8 @@
       "tese": "Compro lojas, distribuo renda",
       "status": "verde",
       "sinais": [
-        "• Realty Income Has Raised Its Dividend Through Every Market Crash Since",
-        "• Realty Income Corp. stock underperforms Wednesday when compared to com",
+        "• Realty Income (O) Stock Fair Value Edges Lower After Mixed Analyst Tar",
+        "• Realty Income Corp. stock underperforms Thursday when compared to comp",
         "• Realty Income Has Raised Its Dividend Through Every Market Crash Since"
       ]
     }
