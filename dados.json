@@ -1,5 +1,5 @@
 {
-  "data": "2026-10-27T12:52:46.793596",
+  "data": "2026-10-28T13:41:03.162018",
   "empresas": [
     {
       "ticker": "MSFT",
@@ -7,9 +7,9 @@
       "tese": "Alugo o escritório digital ao mundo",
       "status": "verde",
       "sinais": [
-        "• Here's the Price at Which I'd Buy Microsoft Stock - The Motley Fool",
-        "• Microsoft Launches Emergency Update on a Sunday; Microsoft Stock (NASD",
-        "• Microsoft Corp.’s (MSFT) AI Strategy Gains Revenue Momentum - Yahoo Fi"
+        "• Stocks to Watch: SK Hynix, Robinhood, Alphabet, Microsoft - WSJ",
+        "✓ Does Azure AI Growth Make Microsoft Stock a Hold Ahead of Q1 Earnings?",
+        "• Microsoft, Alphabet Have a Lot to Prove to AI Skeptics - Bloomberg.com"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tese": "Cobro portagem e alugo a internet",
       "status": "verde",
       "sinais": [
+        "✓ Morgan Stanley Sees Amazon Stock Surging 100% with AWS Hitting $1 Tril",
         "• Ahead of Earnings, Is Amazon Stock a Buy, a Sell, or Fairly Valued? - ",
-        "• Several Important Factors Protect Amazon’s Margins and Secure Its AI M",
-        "✓ Amazon Q3 Preview: Analyst Says AWS Growth Will Drive Upside - Amazon."
+        "• UBS Sets Bold Amazon Stock Target Ahead of Earnings - Yahoo Finance"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tese": "Vendo a única pá das minas de IA",
       "status": "amarelo",
       "sinais": [
-        "• Elon Musk Just Delivered a Sweeping Blow to Nvidia Investors - The Mot",
-        "• The Mixed Blessing From Tech Earnings Weighing on Nvidia Stock - Barro",
-        "• Elon Musk’s latest move brings good news for Nvidia investors - TheStr"
+        "• SK Hynix, Nvidia and Micron send one clear message to investors with t",
+        "• Indian investors rush to Nvidia, SpaceX, Apple as local trading apps r",
+        "• Not Nvidia. Not Micron. This Underappreciated AI Stock Could Be 2027's"
       ]
     },
     {
@@ -41,19 +41,19 @@
       "status": "amarelo",
       "sinais": [
         "• Daiichi Sankyo Company, Limited (DSNKY) Stock Price, News, Quote & His",
-        "• Japan's Daiichi Life unit tables offer to take over Australia's Challe",
-        "• Daiichi Sankyo flags accounting error, as shares tank despite revenue "
+        "• Daiichi Sankyo flags accounting error, as shares tank despite revenue ",
+        "• JPMorgan cuts Daiichi Sankyo stock rating on weak outlook - Investing."
       ]
     },
     {
       "ticker": "NVO",
       "nome": "Novo Nordisk",
       "tese": "Tiro a fome com hormona",
-      "status": "verde",
+      "status": "vermelho",
       "sinais": [
-        "• NVO Stock Quote Price and Forecast - CNN",
-        "• Novo Nordisk (NVO) Could Be 63% Undervalued Following Its Share Buybac",
-        "• AbbVie vs. Novo Nordisk: Which Healthcare Stock Is a Better Buy in 202"
+        "• Novo Nordisk (NVO) Stock Declines While Market Improves: Some Informat",
+        "• Amgen vs. Novo Nordisk: Which Healthcare Giant's Stock Is a Better Buy",
+        "🔴 Novo Nordisk Vs. Eli Lilly Q3 Preview: I'd (Now) Buy Both, But Lilly I"
       ]
     },
     {
@@ -64,7 +64,7 @@
       "sinais": [
         "• Why Sallie Mae (SLM) shares are plunging today - Yahoo Finance",
         "• Why is Sallie Mae stock plunging today? - Investing.com",
-        "• Sallie Mae to Release Third-Quarter Financial Results - Sallie Mae"
+        "• Why Sallie Mae (SLM) Stock Is Down Today - Moomoo"
       ]
     },
     {
@@ -73,9 +73,9 @@
       "tese": "Compro lojas, distribuo renda",
       "status": "verde",
       "sinais": [
-        "• A Conversation With Realty Income's CEO: Asset Management And Data Cen",
-        "• Realty Income Pays You 12 Times a Year. Here's What a $30,000 Investme",
-        "• Realty Income Pays You 12 Times a Year. Here's What a $30,000 Investme"
+        "• Realty Income Just Declared Its 676th Consecutive Monthly Dividend. He",
+        "• Realty Income Just Declared Its 676th Consecutive Monthly Dividend. He",
+        "• Ahead of Realty Income Corp. (O) Q3 Earnings: Get Ready With Wall Stre"
       ]
     }
   ]
