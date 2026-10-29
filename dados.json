@@ -1,5 +1,5 @@
 {
-  "data": "2026-10-28T13:41:03.162018",
+  "data": "2026-10-29T13:51:15.040287",
   "empresas": [
     {
       "ticker": "MSFT",
@@ -7,9 +7,9 @@
       "tese": "Alugo o escritório digital ao mundo",
       "status": "verde",
       "sinais": [
-        "• Stocks to Watch: SK Hynix, Robinhood, Alphabet, Microsoft - WSJ",
-        "✓ Does Azure AI Growth Make Microsoft Stock a Hold Ahead of Q1 Earnings?",
-        "• Microsoft, Alphabet Have a Lot to Prove to AI Skeptics - Bloomberg.com"
+        "• Microsoft stock jumps 4% as cloud growth drives earnings and revenue b",
+        "• Alphabet and Microsoft are on both sides of the AI boom's biggest bill",
+        "• Stocks open lower as disappointing earnings from Alphabet, Caterpillar"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tese": "Cobro portagem e alugo a internet",
       "status": "verde",
       "sinais": [
-        "✓ Morgan Stanley Sees Amazon Stock Surging 100% with AWS Hitting $1 Tril",
-        "• Ahead of Earnings, Is Amazon Stock a Buy, a Sell, or Fairly Valued? - ",
-        "• UBS Sets Bold Amazon Stock Target Ahead of Earnings - Yahoo Finance"
+        "• Amazon’s Ailing Stock Needs Booming Cloud Growth to Revive Rally - Blo",
+        "• Amazon's stock is on sale compared with Walmart and Costco - MarketWat",
+        "• VCs will make billions on Anthropic’s IPO, but Amazon is set to make m"
       ]
     },
     {
@@ -30,8 +30,8 @@
       "status": "amarelo",
       "sinais": [
         "• SK Hynix, Nvidia and Micron send one clear message to investors with t",
-        "• Indian investors rush to Nvidia, SpaceX, Apple as local trading apps r",
-        "• Not Nvidia. Not Micron. This Underappreciated AI Stock Could Be 2027's"
+        "• Nvidia Stock Faces a Test From Its Biggest AI Chip Rival - Barron's",
+        "• Seaport Reiterates Its ‘Sell’ Rating on Nvidia Stock as Competition Is"
       ]
     },
     {
@@ -42,18 +42,18 @@
       "sinais": [
         "• Daiichi Sankyo Company, Limited (DSNKY) Stock Price, News, Quote & His",
         "• Daiichi Sankyo flags accounting error, as shares tank despite revenue ",
-        "• JPMorgan cuts Daiichi Sankyo stock rating on weak outlook - Investing."
+        "• Challenger and suitor Daiichi tango as investors demand higher offer -"
       ]
     },
     {
       "ticker": "NVO",
       "nome": "Novo Nordisk",
       "tese": "Tiro a fome com hormona",
-      "status": "vermelho",
+      "status": "verde",
       "sinais": [
         "• Novo Nordisk (NVO) Stock Declines While Market Improves: Some Informat",
-        "• Amgen vs. Novo Nordisk: Which Healthcare Giant's Stock Is a Better Buy",
-        "🔴 Novo Nordisk Vs. Eli Lilly Q3 Preview: I'd (Now) Buy Both, But Lilly I"
+        "• Novo Nordisk results: your shares are Danish, the options are American",
+        "• AbbVie vs. Novo Nordisk: Which Healthcare Stock Is a Better Buy in 202"
       ]
     },
     {
@@ -74,8 +74,8 @@
       "status": "verde",
       "sinais": [
         "• Realty Income Just Declared Its 676th Consecutive Monthly Dividend. He",
-        "• Realty Income Just Declared Its 676th Consecutive Monthly Dividend. He",
-        "• Ahead of Realty Income Corp. (O) Q3 Earnings: Get Ready With Wall Stre"
+        "• Realty Income Corp. stock outperforms competitors despite losses on th",
+        "• Realty Income Q3 Earnings: Will Rising Treasury Yields Break 'The Mont"
       ]
     }
   ]
