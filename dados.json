@@ -1,5 +1,5 @@
 {
-  "data": "2026-10-30T13:43:38.591529",
+  "data": "2026-10-31T13:13:08.922137",
   "empresas": [
     {
       "ticker": "MSFT",
@@ -7,8 +7,8 @@
       "tese": "Alugo o escritório digital ao mundo",
       "status": "verde",
       "sinais": [
-        "• Microsoft earnings live: Microsoft beats Q1 expectations on top and bo",
-        "✓ Microsoft Sold $25 Billion in Bonds a Day After Its Azure Beat. Here’s",
+        "• The Magnificent 7 stocks are seeing stunning declines - Yahoo Finance",
+        "• Microsoft stock jumps 4% as cloud growth drives earnings and revenue b",
         "✓ Microsoft Earnings: Azure Accelerates, but Investment Returns Remain t"
       ]
     },
@@ -16,11 +16,11 @@
       "ticker": "AMZN",
       "nome": "Amazon",
       "tese": "Cobro portagem e alugo a internet",
-      "status": "verde",
+      "status": "vermelho",
       "sinais": [
-        "• Amazon earnings live: Q3 earnings miss sending stock lower - Yahoo Fin",
-        "• Amazon falls 7%, Intel plunges 25% in premarket trading, as pressure m",
-        "• Stock market today: Nasdaq dives, S&P 500 and Dow fall as Amazon, Inte"
+        "🔴 Amazon posts negative free cash flow of $42.4 billion, holds 2026 cape",
+        "• Amazon, Alphabet, SpaceX and Meta are all to blame for the new tech st",
+        "• Stock Market News, Oct. 30, 2026: Tech Selloff Pushes Nasdaq to Its Wo"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tese": "Vendo a única pá das minas de IA",
       "status": "amarelo",
       "sinais": [
-        "• Nvidia Stock Declines as Competition Probe—and Spy Report—Presents New",
+        "• Nvidia Stock Is Set for Its Worst Month in a Year. Time to Buy the Dip",
         "• Nvidia Is Getting Dangerously Close to Getting Surpassed by Apple in M",
-        "• The Magnificent 7 stocks are seeing stunning declines - Yahoo Finance"
+        "• Meet the Brilliant AI Stock Obliterating Nvidia in 2026 With a Return "
       ]
     },
     {
@@ -40,9 +40,9 @@
       "tese": "Faço mísseis contra cancro",
       "status": "amarelo",
       "sinais": [
-        "• Daiichi Sankyo Company, Limited (4568.T) Stock Price, News, Quote & Hi",
-        "• Daiichi Sankyo’s first-half profit rises on cancer drug growth; shares",
-        "✓ Daiichi Sankyo Company (TSE:4568) Could Be 36% Below Fair Value As Enh"
+        "• Daiichi Sankyo Company, Limited (DSNKY) Stock Price, News, Quote & His",
+        "• Why Daiichi Sankyo Shares Are Up 5.2% And What's Next - Simply Wall St",
+        "• Daiichi Sankyo’s first-half profit rises on cancer drug growth; shares"
       ]
     },
     {
@@ -51,9 +51,9 @@
       "tese": "Tiro a fome com hormona",
       "status": "verde",
       "sinais": [
-        "• Here is What to Know Beyond Why Novo Nordisk A/S (NVO) is a Trending S",
+        "• Novo Has Big Plans for 2030. Should You Buy the Stock Now? - Yahoo Fin",
         "• What to Look Out For in Novo Nordisk’s Earnings - Morningstar",
-        "• Novo Has Big Plans for 2030. Should You Buy the Stock Now? - The Motle"
+        "• Cboe data suggests bullish flow in Novo Nordisk with shares up 1.49% -"
       ]
     },
     {
@@ -62,8 +62,8 @@
       "tese": "Empresto a jovens",
       "status": "verde",
       "sinais": [
+        "• 2 Reasons to sell SLM and 1 stock to buy instead - Yahoo Finance",
         "• SLM Corporation (SLM) Stock Price, News, Quote & History - Yahoo! Fina",
-        "• Sallie Mae Sets December 15 Dividend Payments for Shareholders - MyChe",
         "• Sallie Mae Declares Dividends on Preferred Stock Series B and Common S"
       ]
     },
@@ -73,9 +73,9 @@
       "tese": "Compro lojas, distribuo renda",
       "status": "verde",
       "sinais": [
-        "• Realty Income May Sit Above Fair Value Before November 2. Here’s What ",
-        "• Realty Income Corp's Dividend Analysis - GuruFocus",
-        "• Realty Income Corp. stock outperforms competitors despite losses on th"
+        "• Should You Buy, Hold or Sell Realty Income Stock Before Q3 Earnings? -",
+        "• Realty Income Just Declared Its 676th Consecutive Monthly Dividend. He",
+        "• Realty Income Q3 Earnings Preview: The Business Is Changing More Than "
       ]
     }
   ]
