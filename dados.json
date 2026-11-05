@@ -1,5 +1,5 @@
 {
-  "data": "2026-11-04T14:58:28.190474",
+  "data": "2026-11-05T15:03:22.929252",
   "empresas": [
     {
       "ticker": "MSFT",
@@ -7,9 +7,9 @@
       "tese": "Alugo o escritório digital ao mundo",
       "status": "verde",
       "sinais": [
-        "✓ Microsoft Corporation (MSFT) Outperforms with Record Quarter Driven by",
-        "• What Will Decide Microsoft Stock Over The Next Six Months? - Trefis",
-        "• Microsoft and Oracle Can't Cool AI Data Centers Without This Growth St"
+        "• Microsoft Stocks Rise With $44.9 Billion Anthropic Commitment Disclose",
+        "• Microsoft Stock (NASDAQ:MSFT) Surges as AI Development May Pay Off - T",
+        "• Hyperscalers and Apple surge after election results remove investor un"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tese": "Cobro portagem e alugo a internet",
       "status": "verde",
       "sinais": [
-        "• Amazon Stock (AMZN) Rises on Early Black Friday Deals and Discounts - ",
-        "• Amazon’s Good Problems to Have Keep Me Hitting The Buy Button - Yahoo ",
-        "• Why Wall Street Is Coming Back Around on Amazon Stock - Barron's"
+        "• Why Did Amazon And Google Stock Rise? - Trefis",
+        "• Amazon partners with Uber Eats to bring restaurant delivery to Prime m",
+        "• Hyperscalers and Apple surge after election results remove investor un"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tese": "Vendo a única pá das minas de IA",
       "status": "amarelo",
       "sinais": [
-        "• Why Nvidia Stock Is Rising as Crackdown on Data Centers Looms - Barron",
-        "• Micron, Nvidia, and AMD lead chip stocks' rebound - Yahoo Finance",
-        "• Nvidia Stock Looks Surprisingly Cheap. Why NVDA Could Rise 61%. - Barc"
+        "• Nvidia Stock Is Back at $200. What History Suggests Is the Floor. - Ba",
+        "• Semiconductor Sell-Off: The Best Chip Stocks to Buy Right Now Before T",
+        "• Nvidia Partner Posts Stunning 46% Sales Jump - Yahoo Finance"
       ]
     },
     {
@@ -42,18 +42,18 @@
       "sinais": [
         "• Daiichi Sankyo Company, Limited (4568.T) stock price, news, quote and ",
         "• Daiichi Sankyo flags accounting error, as shares tank despite revenue ",
-        "• Why Daiichi Sankyo Shares Are Up 5.2% And What's Next - Simply Wall St"
+        "• Earnings call transcript: Daiichi Sankyo beats Q2 2026 estimates, shar"
       ]
     },
     {
       "ticker": "NVO",
       "nome": "Novo Nordisk",
       "tese": "Tiro a fome com hormona",
-      "status": "verde",
+      "status": "vermelho",
       "sinais": [
-        "• Novo Nordisk Weight-Loss Pill Sales Soar. One Other Earnings Revelatio",
+        "🔴 Novo Nordisk Stock Shrugs Off Eli Lilly Threat as Weight-Loss Pill Shi",
         "• Stocks making the biggest moves premarket: Trump Media, Tesla, CoreWea",
-        "• European shares rise as Democrats take US Congress, Novo Nordisk surge"
+        "• Novo Nordisk Stock Jumped After Earnings — But Its CEO Won't Give 2027"
       ]
     },
     {
@@ -62,7 +62,7 @@
       "tese": "Empresto a jovens",
       "status": "verde",
       "sinais": [
-        "• 2 Reasons to sell SLM and 1 stock to buy instead - Yahoo Finance",
+        "• Why Sallie Mae (SLM) shares are plunging today - Yahoo Finance",
         "• Sallie Mae Cuts Full-Year View After Logging Higher Charge-Offs - WSJ",
         "• Why Sallie Mae (SLM) Stock Is Down Today - Moomoo"
       ]
@@ -73,8 +73,8 @@
       "tese": "Compro lojas, distribuo renda",
       "status": "verde",
       "sinais": [
+        "• Realty Income Has Paid 676 Consecutive Monthly Dividends. Here’s How I",
         "• Why Isn't Realty Income's Stock Taking Off After Strong Earnings Resul",
-        "• Realty Income Just Raised Its Dividend Again. Here Are 2 More Monthly ",
         "• Realty Income: Selling Less Stock Has Not Cost It The Spread (NYSE:O) "
       ]
     }
