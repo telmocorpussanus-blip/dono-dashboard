@@ -1,5 +1,5 @@
 {
-  "data": "2026-11-07T13:40:12.342287",
+  "data": "2026-11-08T13:58:37.667322",
   "empresas": [
     {
       "ticker": "MSFT",
@@ -7,9 +7,9 @@
       "tese": "Alugo o escritório digital ao mundo",
       "status": "verde",
       "sinais": [
+        "• Oracle beats Microsoft and Amazon on a key Wall Street metric - Yahoo ",
         "• Why The Blue Tsunami Rattled AI Stocks - Investor's Business Daily",
-        "• A Retiree Who Bought 1,000 Oracle Shares at $39 Just Watched Microsoft",
-        "• Microsoft: The Selloff Proved Why It's Different - Seeking Alpha"
+        "• Oracle Stock Nears Death Cross as Microsoft Deal Unwinding Points to M"
       ]
     },
     {
@@ -19,7 +19,7 @@
       "status": "verde",
       "sinais": [
         "• Amazon's CEO Andy Jassy Just Announced Huge News for Amazon Investors ",
-        "• Amazon Stock Pulls Back: What's Going On? - Benzinga",
+        "• Amazon Stock: Buy or Sell? (My Final Verdict) - The Motley Fool",
         "• Amazon Teams Up With Uber Eats, Sending DoorDash Stock Tumbling - Inve"
       ]
     },
@@ -29,9 +29,9 @@
       "tese": "Vendo a única pá das minas de IA",
       "status": "amarelo",
       "sinais": [
-        "• Stock Market Today: Nasdaq Rallies In Tech Turnaround; Airbnb Rockets ",
-        "• Micron vs. Nvidia: Which AI Stock Is a Better Buy for 2027? - The Glob",
-        "• NVIDIA Stocks Rebound 6.78% as Lawmakers Call Jensen Huang to Closed-D"
+        "• Jim Cramer sends a strong signal to Nvidia stock investors - TheStreet",
+        "• Nvidia Stock Rises on Dip-Buying: 3 Reasons to Be Optimistic - Barron'",
+        "• AI stocks like Nvidia, Micron, and Sandisk have been blown up, but kee"
       ]
     },
     {
@@ -40,7 +40,7 @@
       "tese": "Faço mísseis contra cancro",
       "status": "amarelo",
       "sinais": [
-        "• Daiichi Sankyo Company, Limited (4568.T) Stock Price, News, Quote & Hi",
+        "• Daiichi Sankyo Company, Limited (DSNKY) Stock Price, News, Quote & His",
         "• Daiichi Sankyo flags accounting error, as shares tank despite revenue ",
         "• Daiichi Sankyo shares slip after delaying annual earnings report - Bio"
       ]
@@ -49,11 +49,11 @@
       "ticker": "NVO",
       "nome": "Novo Nordisk",
       "tese": "Tiro a fome com hormona",
-      "status": "vermelho",
+      "status": "verde",
       "sinais": [
-        "🔴 Novo Nordisk Stock Shrugs Off Eli Lilly Threat as Weight-Loss Pill Shi",
-        "✓ Novo Nordisk (CPSE:NOVO B) Shares In Focus After Fresh Wegovy MASH Dat",
-        "• Novo Nordisk: What We Think of the Stock After Earnings - Morningstar"
+        "• Novo Nordisk: What We Think of the Stock After Earnings - Morningstar",
+        "• Novo Nordisk A/S: Trading in Novo Nordisk shares by board members, exe",
+        "• NVO Q3 Earnings Call Highlights GLP-1 Growth and Raised Outlook - Yaho"
       ]
     },
     {
@@ -62,8 +62,8 @@
       "tese": "Empresto a jovens",
       "status": "verde",
       "sinais": [
+        "• Sallie Mae (SLM) Stock Fair Value Edges Lower After Analysts Cut Targe",
         "• Why Sallie Mae (SLM) shares are plunging today - Yahoo Finance",
-        "• SLM Corporation (SLM) Stock Price, News, Quote & History - Yahoo! Fina",
         "• Sallie Mae Cuts Full-Year View After Logging Higher Charge-Offs - WSJ"
       ]
     },
@@ -73,9 +73,9 @@
       "tese": "Compro lojas, distribuo renda",
       "status": "verde",
       "sinais": [
-        "• Should Realty Income Be the First Dividend Stock You Buy in November, ",
-        "• Should Realty Income Be the First Dividend Stock You Buy in November, ",
-        "• Realty Income: Selling Less Stock Has Not Cost It The Spread (NYSE:O) "
+        "• 3 Reasons Why Ultra High Yield Realty Income Is a Buy After Its Latest",
+        "• 3 Reasons Why Ultra High Yield Realty Income Is a Buy After Its Latest",
+        "• 3 Dividend Stocks Worth Researching This Weekend - 24/7 Wall St."
       ]
     }
   ]
