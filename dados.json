@@ -1,5 +1,5 @@
 {
-  "data": "2026-11-08T13:58:37.667322",
+  "data": "2026-11-09T16:59:42.815357",
   "empresas": [
     {
       "ticker": "MSFT",
@@ -7,20 +7,20 @@
       "tese": "Alugo o escritório digital ao mundo",
       "status": "verde",
       "sinais": [
-        "• Oracle beats Microsoft and Amazon on a key Wall Street metric - Yahoo ",
-        "• Why The Blue Tsunami Rattled AI Stocks - Investor's Business Daily",
-        "• Oracle Stock Nears Death Cross as Microsoft Deal Unwinding Points to M"
+        "• Microsoft Borrows at “10 Percentage Points Below CoreWeave.” Now It’s ",
+        "• 1 Stock to Buy, 1 Stock to Sell This Week: Microsoft, Cisco - Investin",
+        "• Why The Blue Tsunami Rattled AI Stocks - Investor's Business Daily"
       ]
     },
     {
       "ticker": "AMZN",
       "nome": "Amazon",
       "tese": "Cobro portagem e alugo a internet",
-      "status": "verde",
+      "status": "vermelho",
       "sinais": [
-        "• Amazon's CEO Andy Jassy Just Announced Huge News for Amazon Investors ",
-        "• Amazon Stock: Buy or Sell? (My Final Verdict) - The Motley Fool",
-        "• Amazon Teams Up With Uber Eats, Sending DoorDash Stock Tumbling - Inve"
+        "• Amazon Generated $202 Billion in Quarterly Sales. Most of Its Operatin",
+        "🔴 Amazon: The Rings Of Power Show Why The Big Capex Bet Can Pay Off - Se",
+        "• Amazon's CEO Andy Jassy Just Announced Huge News for Amazon Investors "
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tese": "Vendo a única pá das minas de IA",
       "status": "amarelo",
       "sinais": [
-        "• Jim Cramer sends a strong signal to Nvidia stock investors - TheStreet",
-        "• Nvidia Stock Rises on Dip-Buying: 3 Reasons to Be Optimistic - Barron'",
-        "• AI stocks like Nvidia, Micron, and Sandisk have been blown up, but kee"
+        "• Stock market today: Nasdaq rallies despite Nvidia stock slide, Dow and",
+        "• Nvidia’s Stock Price Drops After Investigation Into CEO Jensen Huang -",
+        "• Stocks making the biggest moves in early trading: Nvidia, AMD, Eli Lil"
       ]
     },
     {
@@ -51,9 +51,9 @@
       "tese": "Tiro a fome com hormona",
       "status": "verde",
       "sinais": [
-        "• Novo Nordisk: What We Think of the Stock After Earnings - Morningstar",
-        "• Novo Nordisk A/S: Trading in Novo Nordisk shares by board members, exe",
-        "• NVO Q3 Earnings Call Highlights GLP-1 Growth and Raised Outlook - Yaho"
+        "✓ Novo Nordisk's Wegovy Pill Has Topped 5 Million Prescriptions. Is the ",
+        "• Novo Nordisk: Q3 Earnings Busts The Cannibalisation Myth (NYSE:NVO) - ",
+        "• Novo Nordisk Reports DKK 11.8 Billion in Share Buybacks - TipRanks"
       ]
     },
     {
@@ -62,8 +62,8 @@
       "tese": "Empresto a jovens",
       "status": "verde",
       "sinais": [
-        "• Sallie Mae (SLM) Stock Fair Value Edges Lower After Analysts Cut Targe",
         "• Why Sallie Mae (SLM) shares are plunging today - Yahoo Finance",
+        "• Sallie Mae (SLM) Stock Fair Value Edges Lower After Analysts Cut Targe",
         "• Sallie Mae Cuts Full-Year View After Logging Higher Charge-Offs - WSJ"
       ]
     },
@@ -73,9 +73,9 @@
       "tese": "Compro lojas, distribuo renda",
       "status": "verde",
       "sinais": [
-        "• 3 Reasons Why Ultra High Yield Realty Income Is a Buy After Its Latest",
-        "• 3 Reasons Why Ultra High Yield Realty Income Is a Buy After Its Latest",
-        "• 3 Dividend Stocks Worth Researching This Weekend - 24/7 Wall St."
+        "• Should Realty Income Be the First Dividend Stock You Buy in November, ",
+        "• Want Reliable Dividend Income? These 4 High-Yield Stocks Have Balance ",
+        "• Should Realty Income Be the First Dividend Stock You Buy in November, "
       ]
     }
   ]
