@@ -1,5 +1,5 @@
 {
-  "data": "2026-11-10T15:19:25.827121",
+  "data": "2026-11-11T14:50:20.233994",
   "empresas": [
     {
       "ticker": "MSFT",
@@ -7,9 +7,9 @@
       "tese": "Alugo o escritório digital ao mundo",
       "status": "verde",
       "sinais": [
-        "• Do Wall Street Analysts Like Microsoft Stock? - Barchart.com",
-        "• $300,000 in Cisco, IBM and Microsoft Could Pay You $5,150 a Year - Yah",
-        "• The Stock Market Is “Petrified of Oracle’s Balance Sheet” as Microsoft"
+        "• Microsoft Stock Drops After Anthropic Unveils Tools to Rival Office - ",
+        "• Microsoft tops Nvidia's market cap for first time since June 2025 - Ya",
+        "• Microsoft Stock Fell After Anthropic Launches Claude Sheets to Rival E"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tese": "Cobro portagem e alugo a internet",
       "status": "verde",
       "sinais": [
-        "• Andy Jassy Just Delivered Great News for Amazon Stock Investors - Yaho",
-        "✓ How skills and agents work in AWS Quick | Amazon Web Services - Amazon",
-        "• Andy Jassy Just Announced Fantastic News for Amazon Stock Investors - "
+        "• Amazon, Google set for big windfall from Anthropic IPO - Reuters",
+        "• Dow Leader Amazon Approaches Latest Buy Point As Ferrari Races Higher ",
+        "• Andy Jassy Just Delivered Great News for Amazon Stock Investors - Yaho"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tese": "Vendo a única pá das minas de IA",
       "status": "amarelo",
       "sinais": [
-        "• Jensen Huang affair puts Nvidia's future at risk, with no clear succes",
-        "• 'Markets bottom on bad news' maxim rings true as chip stocks rally ami",
-        "• Nvidia's AI Moat Faces A New Test, And Other Top Stocks With Durable E"
+        "• 'Icarus' rise and fall': Analyst downgrades Nvidia stock amid Jensen H",
+        "• Why Nvidia Stock Is Rising Despite Wall Street’s First Call for Jensen",
+        "• Watch CNBC’s full discussion on CoreWeave's stock surge and Nvidia's p"
       ]
     },
     {
@@ -40,19 +40,19 @@
       "tese": "Faço mísseis contra cancro",
       "status": "amarelo",
       "sinais": [
-        "• Daiichi Sankyo Company, Limited (DSNKY) Stock Price, News, Quote & His",
-        "• Will Cancer Drug Delivery Partnership Change Daiichi Sankyo Stock Narr",
-        "• Daiichi Sankyo flags accounting error, as shares tank despite revenue "
+        "• Daiichi Sankyo Company, Limited (4568.T) Stock Price, News, Quote & Hi",
+        "• Daiichi Sankyo flags accounting error, as shares tank despite revenue ",
+        "• Daiichi Sankyo shares slip after delaying annual earnings report - Bio"
       ]
     },
     {
       "ticker": "NVO",
       "nome": "Novo Nordisk",
       "tese": "Tiro a fome com hormona",
-      "status": "verde",
+      "status": "vermelho",
       "sinais": [
         "✓ Novo Nordisk's Wegovy Pill Has Topped 5 Million Prescriptions. Is the ",
-        "• Novo Nordisk Reports DKK 11.8 Billion in Share Buybacks - TipRanks",
+        "🔴 Eli Lilly vs Novo Nordisk: What's the Better GLP-1 Stock to Buy? - The",
         "✓ Pharma stock soars 150% on injectables deal with Wegovy maker Novo - C"
       ]
     },
@@ -73,9 +73,9 @@
       "tese": "Compro lojas, distribuo renda",
       "status": "verde",
       "sinais": [
-        "• Realty Income Stock: The Slowing Growth Is Worrying (NYSE:O) - Seeking",
-        "• Should Realty Income Be the First Dividend Stock You Buy in November, ",
-        "• 3 Reasons Why Ultra High Yield Realty Income Is a Buy After Its Latest"
+        "• 137th Common Stock Monthly Dividend Increase Declared by Realty Income",
+        "• Realty Income Just Raised Its Dividend Hours After the 10-Year Treasur",
+        "• Realty Income: The Slowing Growth Is Worrying - Seeking Alpha"
       ]
     }
   ]
