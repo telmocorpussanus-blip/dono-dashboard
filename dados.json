@@ -1,5 +1,5 @@
 {
-  "data": "2026-11-12T15:41:25.077198",
+  "data": "2026-11-13T14:59:49.270097",
   "empresas": [
     {
       "ticker": "MSFT",
@@ -7,9 +7,9 @@
       "tese": "Alugo o escritório digital ao mundo",
       "status": "verde",
       "sinais": [
+        "• Microsoft Is Off Its Record High. Next Week Could See the Stock Reigni",
         "• Microsoft Stock Falls On Anthropic’s Challenge To Office Software - In",
-        "• Microsoft Stock Drops After Anthropic Unveils Tools to Rival Office - ",
-        "• Microsoft Is Off Its Record High. Next Week Could See the Stock Reigni"
+        "• Stocks making the biggest moves premarket: Microsoft, Nvidia, Cerebras"
       ]
     },
     {
@@ -18,9 +18,9 @@
       "tese": "Cobro portagem e alugo a internet",
       "status": "verde",
       "sinais": [
-        "✓ Amazon Stock (AMZN) Slips on New AWS Chile Data Center Plans - TipRank",
         "• Dear Amazon Stock Fans, Mark Your Calendars for November 19 - Barchart",
-        "• A Major Catalyst Could Send Amazon Stock to New Highs - Yahoo Finance"
+        "• A Major Catalyst Could Send Amazon Stock to New Highs - Yahoo Finance",
+        "• Amazon Is the Only \"Magnificent Seven\" Stock I'd Buy With $1,000 Right"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tese": "Vendo a única pá das minas de IA",
       "status": "amarelo",
       "sinais": [
-        "• Nvidia stock falls nearly 10% as CEO Jensen Huang announces resignatio",
-        "• Nvidia Live Updates: CEO Jensen Huang Resigns; NVDA Stock Tumbles - WS",
-        "• Jensen Huang Has Been Ousted as Nvidia CEO - WSJ"
+        "• Nvidia's stock falls after CEO Jensen Huang’s resignation — live updat",
+        "• Nvidia live updates: Following Jensen Huang's resignation as CEO, alle",
+        "• Stock market today: S&P 500, Nasdaq turn lower as wholesale inflation "
       ]
     },
     {
@@ -40,7 +40,7 @@
       "tese": "Faço mísseis contra cancro",
       "status": "amarelo",
       "sinais": [
-        "• Daiichi Sankyo Company, Limited (4568.T) Stock Price, News, Quote & Hi",
+        "• Daiichi Sankyo Company, Limited (DSNKY) Stock Price, News, Quote & His",
         "• Daiichi Sankyo flags accounting error, as shares tank despite revenue ",
         "• Daiichi Sankyo shares slip after delaying annual earnings report - Bio"
       ]
@@ -49,11 +49,11 @@
       "ticker": "NVO",
       "nome": "Novo Nordisk",
       "tese": "Tiro a fome com hormona",
-      "status": "vermelho",
+      "status": "verde",
       "sinais": [
         "✓ JPMorgan Predicted Strong Wegovy Pill Sales (and Was Right). Is Novo N",
-        "🔴 Eli Lilly vs Novo Nordisk: What's the Better GLP-1 Stock to Buy? - The",
-        "• Novo Nordisk Stock: Better Than It Looks, But Not A Buy Yet (NYSE:NVO)"
+        "• Novo Nordisk Stock: Better Than It Looks, But Not A Buy Yet (NYSE:NVO)",
+        "✓ JPMorgan Predicted Strong Wegovy Pill Sales (and Was Right). Is Novo N"
       ]
     },
     {
@@ -62,8 +62,8 @@
       "tese": "Empresto a jovens",
       "status": "verde",
       "sinais": [
-        "• SLM Corporation (SLM) Stock Price, News, Quote & History - Yahoo! Fina",
         "• Why Sallie Mae (SLM) shares are plunging today - Yahoo Finance",
+        "• Will Q3 Loss Change Sallie Mae Stock's Narrative - Simply Wall St",
         "• Sallie Mae Cuts Full-Year View After Logging Higher Charge-Offs - WSJ"
       ]
     },
