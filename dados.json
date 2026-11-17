@@ -1,5 +1,5 @@
 {
-  "data": "2026-11-16T16:38:41.916385",
+  "data": "2026-11-17T16:35:19.177216",
   "empresas": [
     {
       "ticker": "MSFT",
@@ -7,9 +7,9 @@
       "tese": "Alugo o escritório digital ao mundo",
       "status": "verde",
       "sinais": [
-        "• Why the Microsoft Outage Came at the Worst Possible Time for the Stock",
-        "• Morgan Stanley doubles down on Microsoft stock with bold outlook - The",
-        "• Americans fear the worst after Pentagon doomsday prepping, ‘Black Octo"
+        "• Microsoft Stock (NASDAQ:MSFT) Slips as Massive Outlook Outage Post-Mor",
+        "• Microsoft Corporation (MSFT) Rose on Strong Fiscal Year-End Results an",
+        "• Microsoft Corp Stock (MSFT) Moved Down by 3.35% on Nov 17: A Full Anal"
       ]
     },
     {
@@ -19,8 +19,8 @@
       "status": "verde",
       "sinais": [
         "• What's Wrong With Amazon.com (AMZN) Stock, and Is It a Buy in November",
-        "• What Could Lift Amazon Stock From Here? - Trefis",
-        "✓ Amazon Stock: AWS Strikes $5B Blackstone Data Center Deal as AI Spendi"
+        "• Jeff Bezos Donates $198.9 Million In Amazon Shares, SEC Filing Shows -",
+        "• Own Amazon Or Alphabet? You Already Own Some Anthropic - Trefis"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "tese": "Vendo a única pá das minas de IA",
       "status": "amarelo",
       "sinais": [
-        "• Nvidia stock falls as Jensen Huang reportedly weighs CEO comeback, Mus",
-        "• Nvidia board urged to consider 'potential return of Jensen Huang' by t",
-        "• The one thing that may have doomed Jensen Huang - Axios"
+        "• Nvidia live updates: Interim CEO Kress prepares for Q3 earnings, with ",
+        "• Nvidia has lost $2 trillion in value. Here's what options traders expe",
+        "• US stocks fall again as AI companies keep swinging - AP News"
       ]
     },
     {
@@ -40,20 +40,20 @@
       "tese": "Faço mísseis contra cancro",
       "status": "amarelo",
       "sinais": [
-        "• Daiichi Sankyo Company, Limited (DSNKY) Stock Price, News, Quote & His",
+        "• Daiichi Sankyo (TSE:4568) Stock Could Trade At A Discount As Shares Fe",
         "• Will Cancer Drug Delivery Partnership Change Daiichi Sankyo Stock Narr",
-        "• Daiichi Sankyo (TSE:4568) Stock Could Trade At A Discount As Shares Fe"
+        "• Daiichi Sankyo Company Stock Price Forecast. Should You Buy DSNKY? - S"
       ]
     },
     {
       "ticker": "NVO",
       "nome": "Novo Nordisk",
       "tese": "Tiro a fome com hormona",
-      "status": "verde",
+      "status": "vermelho",
       "sinais": [
-        "• Novo Nordisk A/S - share repurchase programme - Yahoo Finance",
         "• Novo Nordisk Shares Rise on Positive Weight-Loss Data, Hemophilia Drug",
-        "• Novo Nordisk Shares Gain 2.4% Following Additional CagriSema Weight-Lo"
+        "🔴 Prediction: $10,000 Equally Split Between Eli Lilly and Novo Nordisk W",
+        "• Novo Nordisk Details Share Repurchases Through November 13 - TipRanks"
       ]
     },
     {
@@ -64,7 +64,7 @@
       "sinais": [
         "• Why Sallie Mae (SLM) shares are plunging today - Yahoo Finance",
         "• Sallie Mae (SLM) Stock Fair Value Edges Lower After Analysts Cut Targe",
-        "• Sallie Mae CEO to Speak at TD Cowen 2026 Financials & Fintech Conferen"
+        "• Sallie Mae Stock Tumbles 7.6% on Elevated Charge-Off Concerns - Yahoo "
       ]
     },
     {
@@ -73,9 +73,9 @@
       "tese": "Compro lojas, distribuo renda",
       "status": "verde",
       "sinais": [
-        "• The Ultimate Dividend Stock to Buy With $5,000 Right Now - Yahoo Finan",
-        "• Is Realty Income Stock a Smart Monthly Dividend Bet Heading Into 2027?",
-        "• Realty Income Pays Dividends Every Month. Here's What You Can Expect $"
+        "• Realty Income Pays Dividends Every Month. Here's What You Can Expect $",
+        "• Realty Income Stock And Other Dividend Payers Built For Higher Rates -",
+        "• If You Can Only Buy One High-Yield Dividend Stock Forever, Make It Thi"
       ]
     }
   ]
